@@ -1,0 +1,9 @@
+{
+  "name": "calendar-view",
+  "main": "calendar-view.js",
+  "version": "340.0.0",
+  "author": {
+    "name": "zzsusan",
+    "url": "https://observablehq.com/@zzsusan"
+  }
+}
