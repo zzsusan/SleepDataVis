@@ -60,7 +60,7 @@ This chart shows ... `
           .attr("font-weight", "bold")
           .attr("text-anchor", "end")
           .text(d => d.key);
-        
+
         // 最左侧周几（M,F...）无误
         year.append("g")
           .attr("text-anchor", "end")
@@ -74,6 +74,16 @@ This chart shows ... `
 
         // 代表日期的小方格标，x有问题
         year.append("g")
+          .selectAll("text")
+          .data(d => d.values)
+          .join("text")
+          // .append("text") //<text dy="1em">文字文字文字</text>
+          .attr("text", ":)")
+          .attr("x", d => timeWeek.count(d3.utcYear(d.date), d.date) * cellSize + 0.5)
+          .attr("y", d => countDay(d.date) * cellSize + 0.5)
+          .attr("dy", ".1em")
+          
+        const calendarRect = year.append("g")
           .selectAll("rect")
           .data(d => d.values)
           .join("rect")
@@ -81,9 +91,17 @@ This chart shows ... `
           .attr("height", cellSize - 1)
           .attr("x", d => timeWeek.count(d3.utcYear(d.date), d.date) * cellSize + 0.5)
           .attr("y", d => countDay(d.date) * cellSize + 0.5)
-          .attr("fill", d => color(d.value))
+          .attr("fill", d => color(d['Sleep quality']))
           .append("title")
-          .text(d => `${formatDate(d.date)}: ${format(d.value)}`);
+          .text(d => `${formatDate(d.date)}: ${format(d['Sleep quality'])}`);
+        
+        
+          
+
+
+        // calendar.selectAll("rect")
+        //   .append("title")
+        //   .text(d => `${formatDate(d.date)}: ${format(d['Sleep quality'])}`);
 
         // 这个不见了（可能是因为上面的g有问题）
         const month = year.append("g")
@@ -220,26 +238,17 @@ This chart shows ... `
       inputs: ["d3"],
       value: (async function (d3) {
         // const data = await d3.csv("sleepdata.csv", d3.autoType);
-        const data = await d3.csv("/resource/sleepdata.csv", d3.autoType);
+        const data = await d3.csv("/resource/sleeptest.csv", d3.autoType);
         /*原来是对data进行了数据处理，返回data.date和新生成的一列*/
-        // return d3.pairs(data, (date, SleepQuality) => {
+        // return d3.pairs(data, (
+        //   {date}, {['Sleep quality']}
+        // ) => {
         //   return {
-        //     date,
+        //     date: new Date(date),
         //     value: SleepQuality
         //   };
         // });
-        // return {
-        //   date: data['date'],
-        //   value: data['SleepQuality']
-        // }
-        return d3.pairs(data, (
-          {date}, {SleepQuality}
-        ) => {
-          return {
-            date: new Date(date),
-            value: SleepQuality
-          };
-        });
+        return data;
       })
     },
     {

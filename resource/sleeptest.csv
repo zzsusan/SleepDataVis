@@ -1,0 +1,875 @@
+,date,Start,End,Sleep quality,Time in bed,Wake up,Sleep Notes,Heart rate,Activity (steps),sleeptime,sleepnote
+0,2014-12-29,2014/12/29 22:57,2014/12/30 7:30,1,8:32:00,:),,59,0,512,['nan']
+2,2014-12-30,2014/12/30 22:42,2014/12/31 7:13,0.98,8:30:00,:|,,57,0,510,['nan']
+3,2014-12-31,2014/12/31 22:31,2015/1/1 6:03,0.65,7:32:00,,,,0,452,['nan']
+4,2015-01-01,2015/1/1 22:12,2015/1/2 4:56,0.72,6:44:00,:),Drank coffee:Drank tea,68,0,404,"['Drank coffee', 'Drank tea']"
+5,2015-01-03,2015/1/3 0:34,2015/1/3 7:47,0.83,7:12:00,:),Drank coffee:Drank tea,60,0,432,"['Drank coffee', 'Drank tea']"
+6,2015-01-04,2015/1/4 0:23,2015/1/4 7:37,0.78,7:14:00,,Drank tea,,0,434,['Drank tea']
+7,2015-01-04,2015/1/4 21:34,2015/1/5 4:53,0.78,7:18:00,:),Ate late:Drank coffee,57,0,438,"['Ate late', 'Drank coffee']"
+8,2015-01-05,2015/1/5 21:32,2015/1/6 5:00,0.69,7:27:00,:),Drank coffee:Drank tea:Worked out,56,0,447,"['Drank coffee', 'Drank tea', 'Worked out']"
+9,2015-01-06,2015/1/6 21:24,2015/1/7 5:00,0.74,7:35:00,:|,Drank tea:Worked out,64,0,455,"['Drank tea', 'Worked out']"
+10,2015-01-07,2015/1/7 20:59,2015/1/8 6:19,0.81,9:19:00,:),Drank coffee:Drank tea:Stressful day,62,0,559,"['Drank coffee', 'Drank tea', 'Stressful day']"
+11,2015-01-08,2015/1/8 22:58,2015/1/9 6:14,0.88,7:16:00,:),Drank coffee:Drank tea,58,0,436,"['Drank coffee', 'Drank tea']"
+12,2015-01-09,2015/1/9 22:27,2015/1/10 7:29,0.77,9:01:00,:|,Drank coffee:Drank tea,65,0,541,"['Drank coffee', 'Drank tea']"
+13,2015-01-10,2015/1/10 22:38,2015/1/11 7:28,0.89,8:50:00,:|,Drank coffee:Drank tea,65,0,530,"['Drank coffee', 'Drank tea']"
+14,2015-01-11,2015/1/11 22:12,2015/1/12 6:20,0.78,8:08:00,:),Drank tea,53,0,488,['Drank tea']
+15,2015-01-12,2015/1/12 21:01,2015/1/13 6:13,1,9:11:00,:),Drank tea:Worked out,65,0,551,"['Drank tea', 'Worked out']"
+16,2015-01-13,2015/1/13 22:14,2015/1/14 6:20,1,8:06:00,:),Drank coffee:Drank tea,55,0,486,"['Drank coffee', 'Drank tea']"
+17,2015-01-14,2015/1/14 21:48,2015/1/15 5:02,0.88,7:13:00,:),Drank coffee:Drank tea:Worked out,60,0,433,"['Drank coffee', 'Drank tea', 'Worked out']"
+18,2015-01-15,2015/1/15 21:32,2015/1/16 4:54,0.87,7:22:00,:),Drank tea,60,0,442,['Drank tea']
+19,2015-01-17,2015/1/17 2:11,2015/1/17 9:03,0.83,6:51:00,:),Drank coffee:Drank tea,94,0,411,"['Drank coffee', 'Drank tea']"
+20,2015-01-17,2015/1/17 23:55,2015/1/18 7:47,0.93,7:51:00,:),Drank coffee:Drank tea,57,0,471,"['Drank coffee', 'Drank tea']"
+21,2015-01-18,2015/1/18 21:51,2015/1/19 5:04,0.58,7:12:00,:),Drank coffee,67,0,432,['Drank coffee']
+22,2015-01-19,2015/1/19 5:06,2015/1/19 6:20,0.16,1:13:00,:),,58,0,73,['nan']
+23,2015-01-19,2015/1/19 21:45,2015/1/20 5:45,0.75,8:00:00,:|,Drank coffee:Drank tea:Worked out,54,0,480,"['Drank coffee', 'Drank tea', 'Worked out']"
+24,2015-01-20,2015/1/20 21:42,2015/1/21 5:45,0.8,8:02:00,:|,Drank coffee:Drank tea:Worked out,60,0,482,"['Drank coffee', 'Drank tea', 'Worked out']"
+25,2015-01-21,2015/1/21 22:34,2015/1/22 6:17,0.87,7:42:00,:),Drank coffee:Drank tea:Worked out,75,0,462,"['Drank coffee', 'Drank tea', 'Worked out']"
+26,2015-01-25,2015/1/25 20:55,2015/1/26 6:14,0.87,9:19:00,:),Drank coffee,58,0,559,['Drank coffee']
+27,2015-01-26,2015/1/26 22:36,2015/1/27 6:11,0.83,7:35:00,:|,Drank coffee:Drank tea:Stressful day,66,0,455,"['Drank coffee', 'Drank tea', 'Stressful day']"
+28,2015-01-28,2015/1/28 21:43,2015/1/29 5:20,0.76,7:37:00,:),Drank coffee:Drank tea:Stressful day,57,0,457,"['Drank coffee', 'Drank tea', 'Stressful day']"
+29,2015-01-29,2015/1/29 22:23,2015/1/30 5:29,0.67,7:05:00,:),Drank coffee:Drank tea:Worked out,63,0,425,"['Drank coffee', 'Drank tea', 'Worked out']"
+30,2015-01-31,2015/1/31 0:13,2015/1/31 8:17,0.93,8:03:00,:),Drank coffee:Drank tea:Stressful day,62,0,483,"['Drank coffee', 'Drank tea', 'Stressful day']"
+31,2015-02-01,2015/2/1 21:55,2015/2/2 5:09,0.64,7:13:00,:),Drank coffee:Drank tea,56,0,433,"['Drank coffee', 'Drank tea']"
+32,2015-02-02,2015/2/2 22:30,2015/2/3 6:20,0.75,7:49:00,:),Drank tea,61,0,469,['Drank tea']
+33,2015-02-03,2015/2/3 22:47,2015/2/4 6:20,0.72,7:32:00,:),Drank coffee:Drank tea,61,0,452,"['Drank coffee', 'Drank tea']"
+34,2015-02-04,2015/2/4 23:03,2015/2/5 6:10,0.7,7:07:00,:),Drank tea:Worked out,57,0,427,"['Drank tea', 'Worked out']"
+35,2015-02-08,2015/2/8 22:30,2015/2/9 6:48,0.89,8:17:00,:),Drank coffee:Drank tea,61,0,497,"['Drank coffee', 'Drank tea']"
+36,2015-02-09,2015/2/9 21:55,2015/2/10 6:13,0.85,8:17:00,:),Drank coffee,58,0,497,['Drank coffee']
+37,2015-02-10,2015/2/10 22:20,2015/2/11 6:20,0.59,8:00:00,:),Drank coffee,60,0,480,['Drank coffee']
+38,2015-02-11,2015/2/11 21:53,2015/2/12 5:30,0.67,7:36:00,:),Drank coffee:Drank tea:Worked out,57,0,456,"['Drank coffee', 'Drank tea', 'Worked out']"
+39,2015-02-12,2015/2/12 22:34,2015/2/13 5:24,0.69,6:49:00,:),Drank coffee:Drank tea:Worked out,53,0,409,"['Drank coffee', 'Drank tea', 'Worked out']"
+40,2015-02-15,2015/2/15 22:16,2015/2/16 5:20,0.74,7:04:00,:),Drank coffee,60,0,424,['Drank coffee']
+41,2015-02-17,2015/2/17 0:02,2015/2/17 6:16,0.78,6:13:00,:),Drank coffee:Drank tea:Worked out,65,0,373,"['Drank coffee', 'Drank tea', 'Worked out']"
+42,2015-02-17,2015/2/17 22:20,2015/2/18 5:05,0.7,6:45:00,:),Drank coffee:Drank tea,55,0,405,"['Drank coffee', 'Drank tea']"
+43,2015-02-19,2015/2/19 22:39,2015/2/20 6:20,0.77,7:40:00,:),Drank coffee:Drank tea:Stressful day,66,0,460,"['Drank coffee', 'Drank tea', 'Stressful day']"
+44,2015-02-21,2015/2/21 0:31,2015/2/21 7:32,0.72,7:00:00,:),Drank coffee:Drank tea:Worked out,55,0,420,"['Drank coffee', 'Drank tea', 'Worked out']"
+45,2015-02-21,2015/2/21 22:54,2015/2/22 7:49,0.92,8:55:00,:),Drank coffee:Drank tea,56,0,535,"['Drank coffee', 'Drank tea']"
+46,2015-02-22,2015/2/22 22:18,2015/2/23 6:20,0.87,8:02:00,:),Drank coffee,60,0,482,['Drank coffee']
+47,2015-02-24,2015/2/24 22:30,2015/2/25 6:20,0.69,7:49:00,:),Drank coffee:Drank tea,62,0,469,"['Drank coffee', 'Drank tea']"
+48,2015-02-26,2015/2/26 1:22,2015/2/26 7:16,0.65,5:54:00,:|,Drank coffee:Drank tea,,0,354,"['Drank coffee', 'Drank tea']"
+49,2015-02-26,2015/2/26 21:42,2015/2/27 5:37,0.9,7:54:00,:),Drank tea:Worked out,61,0,474,"['Drank tea', 'Worked out']"
+50,2015-03-01,2015/3/1 20:14,2015/3/2 5:44,0.88,9:29:00,:),Drank coffee,62,0,569,['Drank coffee']
+51,2015-03-03,2015/3/3 21:47,2015/3/4 5:30,0.61,7:43:00,:),Drank coffee:Drank tea:Worked out,62,0,463,"['Drank coffee', 'Drank tea', 'Worked out']"
+52,2015-03-04,2015/3/4 20:53,2015/3/5 6:13,0.54,9:19:00,:),Drank coffee:Drank tea:Stressful day:Worked out,68,0,559,"['Drank coffee', 'Drank tea', 'Stressful day', 'Worked out']"
+53,2015-03-05,2015/3/5 22:29,2015/3/6 6:20,0.86,7:50:00,:),Drank coffee:Drank tea,58,0,470,"['Drank coffee', 'Drank tea']"
+54,2015-03-08,2015/3/8 22:54,2015/3/9 6:20,0.69,7:25:00,:),Drank coffee,61,0,445,['Drank coffee']
+55,2015-03-09,2015/3/9 21:28,2015/3/10 6:18,0.99,8:50:00,:),Drank coffee:Drank tea,67,0,530,"['Drank coffee', 'Drank tea']"
+56,2015-03-10,2015/3/10 22:17,2015/3/11 6:18,0.82,8:01:00,:),Drank coffee:Drank tea,71,0,481,"['Drank coffee', 'Drank tea']"
+57,2015-03-11,2015/3/11 21:39,2015/3/12 5:19,0.77,7:40:00,:),Drank coffee:Drank tea,63,0,460,"['Drank coffee', 'Drank tea']"
+58,2015-03-12,2015/3/12 21:44,2015/3/13 5:20,0.72,7:36:00,:),Drank coffee:Drank tea:Worked out,60,0,456,"['Drank coffee', 'Drank tea', 'Worked out']"
+59,2015-03-15,2015/3/15 21:50,2015/3/16 4:51,0.82,7:00:00,:),,62,0,420,['nan']
+60,2015-03-16,2015/3/16 21:48,2015/3/17 5:21,0.75,7:32:00,:),Drank coffee:Drank tea,54,0,452,"['Drank coffee', 'Drank tea']"
+61,2015-03-17,2015/3/17 23:57,2015/3/18 8:01,0.91,8:03:00,:),Drank coffee:Drank tea:Worked out,62,0,483,"['Drank coffee', 'Drank tea', 'Worked out']"
+62,2015-03-21,2015/3/21 1:10,2015/3/21 8:00,0.74,6:49:00,:),Drank coffee,66,0,409,['Drank coffee']
+63,2015-03-22,2015/3/22 23:07,2015/3/23 7:30,0.75,8:22:00,:),Drank coffee:Drank tea,65,0,502,"['Drank coffee', 'Drank tea']"
+64,2015-03-24,2015/3/24 22:11,2015/3/25 6:19,0.84,8:07:00,:),Drank coffee,58,0,487,['Drank coffee']
+65,2015-03-25,2015/3/25 22:00,2015/3/26 5:22,0.76,7:22:00,:),Drank coffee:Drank tea:Worked out,,0,442,"['Drank coffee', 'Drank tea', 'Worked out']"
+66,2015-03-26,2015/3/26 21:23,2015/3/27 5:26,0.92,8:03:00,:),Drank tea:Worked out,54,0,483,"['Drank tea', 'Worked out']"
+67,2015-03-30,2015/3/30 22:30,2015/3/31 5:28,0.82,6:57:00,:),Drank coffee:Worked out,64,0,417,"['Drank coffee', 'Worked out']"
+68,2015-03-31,2015/3/31 22:17,2015/4/1 5:50,0.84,7:32:00,:),Drank coffee:Drank tea:Worked out,55,0,452,"['Drank coffee', 'Drank tea', 'Worked out']"
+69,2015-04-04,2015/4/4 23:13,2015/4/5 7:31,0.95,8:17:00,:),Drank coffee:Drank tea,,0,497,"['Drank coffee', 'Drank tea']"
+70,2015-04-06,2015/4/6 21:22,2015/4/7 6:15,0.79,8:53:00,:),Drank coffee:Drank tea,55,0,533,"['Drank coffee', 'Drank tea']"
+71,2015-04-07,2015/4/7 21:17,2015/4/8 6:18,1,9:01:00,:),Drank tea,51,0,541,['Drank tea']
+72,2015-04-08,2015/4/8 22:09,2015/4/9 5:02,0.81,6:52:00,:),Drank tea,52,0,412,['Drank tea']
+73,2015-04-09,2015/4/9 21:56,2015/4/10 5:23,0.8,7:27:00,:),Drank coffee:Drank tea:Worked out,,0,447,"['Drank coffee', 'Drank tea', 'Worked out']"
+74,2015-04-10,2015/4/10 23:51,2015/4/11 7:41,0.85,7:50:00,:),Drank tea:Worked out,,0,470,"['Drank tea', 'Worked out']"
+75,2015-04-11,2015/4/11 23:16,2015/4/12 6:53,0.97,7:36:00,:),Drank coffee:Drank tea,52,0,456,"['Drank coffee', 'Drank tea']"
+76,2015-04-12,2015/4/12 22:04,2015/4/13 5:41,0.84,7:36:00,:),Drank coffee:Drank tea,58,0,456,"['Drank coffee', 'Drank tea']"
+77,2015-04-13,2015/4/13 22:19,2015/4/14 5:45,0.78,7:25:00,:),Drank tea:Worked out,57,0,445,"['Drank tea', 'Worked out']"
+78,2015-04-15,2015/4/15 0:28,2015/4/15 7:30,0.81,7:01:00,:),Drank coffee:Drank tea:Worked out,63,0,421,"['Drank coffee', 'Drank tea', 'Worked out']"
+79,2015-04-16,2015/4/16 23:20,2015/4/17 6:20,0.82,6:59:00,:),Drank coffee:Drank tea,58,0,419,"['Drank coffee', 'Drank tea']"
+80,2015-04-17,2015/4/17 23:50,2015/4/18 7:22,0.59,7:32:00,:),Drank coffee:Drank tea:Stressful day:Worked out,53,0,452,"['Drank coffee', 'Drank tea', 'Stressful day', 'Worked out']"
+81,2015-04-20,2015/4/20 22:37,2015/4/21 6:18,0.77,7:40:00,:),Drank coffee:Drank tea,58,0,460,"['Drank coffee', 'Drank tea']"
+82,2015-04-22,2015/4/22 21:31,2015/4/23 5:11,0.77,7:39:00,:),Drank coffee:Drank tea:Stressful day,67,0,459,"['Drank coffee', 'Drank tea', 'Stressful day']"
+83,2015-04-23,2015/4/23 21:46,2015/4/24 5:13,0.87,7:26:00,:),Drank coffee:Drank tea:Stressful day:Worked out,,0,446,"['Drank coffee', 'Drank tea', 'Stressful day', 'Worked out']"
+84,2015-04-25,2015/4/25 22:53,2015/4/26 7:53,1,9:00:00,:),Drank coffee:Drank tea,61,0,540,"['Drank coffee', 'Drank tea']"
+85,2015-04-26,2015/4/26 21:51,2015/4/27 4:59,0.7,7:07:00,:),Ate late:Drank coffee:Drank tea,64,0,427,"['Ate late', 'Drank coffee', 'Drank tea']"
+86,2015-04-27,2015/4/27 21:35,2015/4/28 4:57,0.77,7:21:00,:),Drank tea:Worked out,59,0,441,"['Drank tea', 'Worked out']"
+87,2015-04-28,2015/4/28 21:41,2015/4/29 5:00,0.53,7:18:00,:),Drank coffee:Worked out,59,0,438,"['Drank coffee', 'Worked out']"
+88,2015-04-30,2015/4/30 23:13,2015/5/1 6:06,0.77,6:52:00,:),Drank coffee:Drank tea:Stressful day,60,0,412,"['Drank coffee', 'Drank tea', 'Stressful day']"
+89,2015-05-01,2015/5/1 22:20,2015/5/2 6:07,0.65,7:46:00,:),Drank coffee:Worked out,91,0,466,"['Drank coffee', 'Worked out']"
+90,2015-05-05,2015/5/5 22:23,2015/5/6 6:18,0.83,7:54:00,:),Drank coffee:Drank tea:Worked out,62,0,474,"['Drank coffee', 'Drank tea', 'Worked out']"
+91,2015-05-06,2015/5/6 21:47,2015/5/7 5:21,0.5,7:34:00,:),Ate late:Drank coffee:Drank tea:Worked out,59,0,454,"['Ate late', 'Drank coffee', 'Drank tea', 'Worked out']"
+92,2015-05-07,2015/5/7 21:22,2015/5/8 4:57,0.89,7:34:00,:),Drank tea:Worked out,54,0,454,"['Drank tea', 'Worked out']"
+93,2015-05-09,2015/5/9 1:58,2015/5/9 7:01,0.61,5:03:00,:),Drank coffee:Drank tea:Stressful day:Worked out,75,0,303,"['Drank coffee', 'Drank tea', 'Stressful day', 'Worked out']"
+94,2015-05-10,2015/5/10 22:11,2015/5/11 5:00,0.66,6:48:00,:),Drank coffee:Drank tea:Worked out,50,0,408,"['Drank coffee', 'Drank tea', 'Worked out']"
+95,2015-05-11,2015/5/11 21:57,2015/5/12 5:00,0.75,7:03:00,:),Drank tea:Worked out,55,0,423,"['Drank tea', 'Worked out']"
+96,2015-05-12,2015/5/12 22:04,2015/5/13 4:52,0.72,6:47:00,:),Drank tea:Worked out,59,0,407,"['Drank tea', 'Worked out']"
+97,2015-05-14,2015/5/14 22:49,2015/5/15 6:17,0.79,7:28:00,:),Drank coffee:Drank tea,51,0,448,"['Drank coffee', 'Drank tea']"
+98,2015-05-17,2015/5/17 21:03,2015/5/18 7:49,0.93,10:46:00,:),Drank tea:Stressful day,59,0,646,"['Drank tea', 'Stressful day']"
+99,2015-05-18,2015/5/18 22:39,2015/5/19 6:20,0.91,7:41:00,:),,59,0,461,['nan']
+100,2015-05-20,2015/5/20 22:22,2015/5/21 5:25,0.59,7:02:00,:),Drank tea:Worked out,62,0,422,"['Drank tea', 'Worked out']"
+101,2015-05-21,2015/5/21 22:47,2015/5/22 5:25,0.74,6:38:00,:),Drank coffee:Drank tea:Worked out,60,0,398,"['Drank coffee', 'Drank tea', 'Worked out']"
+102,2015-05-24,2015/5/24 0:01,2015/5/24 7:35,0.73,7:33:00,:),Drank coffee:Worked out,,0,453,"['Drank coffee', 'Worked out']"
+103,2015-05-24,2015/5/24 22:58,2015/5/25 6:45,0.67,7:47:00,:),Drank coffee:Drank tea,61,0,467,"['Drank coffee', 'Drank tea']"
+104,2015-05-25,2015/5/25 22:05,2015/5/26 5:29,0.85,7:23:00,:),Drank coffee:Drank tea,,0,443,"['Drank coffee', 'Drank tea']"
+105,2015-05-26,2015/5/26 22:18,2015/5/27 5:14,0.69,6:56:00,:),Drank coffee:Drank tea:Worked out,,0,416,"['Drank coffee', 'Drank tea', 'Worked out']"
+106,2015-05-28,2015/5/28 23:10,2015/5/29 7:00,0.81,7:49:00,:),Drank coffee:Drank tea:Worked out,52,0,469,"['Drank coffee', 'Drank tea', 'Worked out']"
+107,2015-05-31,2015/5/31 23:16,2015/6/1 6:20,0.72,7:03:00,:),Drank coffee,76,0,423,['Drank coffee']
+108,2015-06-01,2015/6/1 22:20,2015/6/2 6:19,0.76,7:59:00,:),Drank coffee:Drank tea:Worked out,57,0,479,"['Drank coffee', 'Drank tea', 'Worked out']"
+109,2015-06-03,2015/6/3 22:19,2015/6/4 5:20,0.78,7:00:00,:),Drank coffee:Drank tea,64,0,420,"['Drank coffee', 'Drank tea']"
+110,2015-06-04,2015/6/4 22:20,2015/6/5 3:45,0.7,5:25:00,:(,Drank coffee:Drank tea:Worked out,,0,325,"['Drank coffee', 'Drank tea', 'Worked out']"
+111,2015-06-05,2015/6/5 3:45,2015/6/5 5:41,0.23,1:55:00,:),,57,0,115,['nan']
+112,2015-06-07,2015/6/7 22:01,2015/6/8 5:40,0.75,7:39:00,:),Drank coffee,58,0,459,['Drank coffee']
+113,2015-06-08,2015/6/8 21:57,2015/6/9 5:16,0.69,7:19:00,:),Drank coffee:Drank tea:Worked out,,0,439,"['Drank coffee', 'Drank tea', 'Worked out']"
+114,2015-06-09,2015/6/9 21:07,2015/6/10 5:01,0.83,7:54:00,:),Drank coffee:Drank tea:Worked out,,0,474,"['Drank coffee', 'Drank tea', 'Worked out']"
+115,2015-06-10,2015/6/10 21:12,2015/6/11 6:17,0.92,9:04:00,:),Drank tea:Stressful day:Worked out,68,0,544,"['Drank tea', 'Stressful day', 'Worked out']"
+116,2015-06-11,2015/6/11 22:54,2015/6/12 6:19,0.74,7:25:00,:),Drank coffee:Worked out,,0,445,"['Drank coffee', 'Worked out']"
+117,2015-06-14,2015/6/14 22:38,2015/6/15 6:12,0.81,7:34:00,:),Drank coffee:Drank tea,,0,454,"['Drank coffee', 'Drank tea']"
+118,2015-06-15,2015/6/15 22:31,2015/6/16 6:20,0.88,7:48:00,:),Drank coffee:Drank tea:Worked out,64,0,468,"['Drank coffee', 'Drank tea', 'Worked out']"
+119,2015-06-16,2015/6/16 22:21,2015/6/17 6:20,0.69,7:59:00,:),Drank coffee:Drank tea:Stressful day:Worked out,,0,479,"['Drank coffee', 'Drank tea', 'Stressful day', 'Worked out']"
+120,2015-06-17,2015/6/17 21:28,2015/6/18 5:00,0.63,7:31:00,:),Drank coffee,,0,451,['Drank coffee']
+121,2015-06-18,2015/6/18 22:26,2015/6/19 4:46,0.71,6:20:00,:),Drank coffee:Worked out,,0,380,"['Drank coffee', 'Worked out']"
+122,2015-06-22,2015/6/22 21:54,2015/6/23 5:07,0.78,7:13:00,:),Drank coffee:Worked out,,0,433,"['Drank coffee', 'Worked out']"
+123,2015-06-23,2015/6/23 22:09,2015/6/24 4:57,0.76,6:48:00,:),Drank coffee:Drank tea:Worked out,,0,408,"['Drank coffee', 'Drank tea', 'Worked out']"
+125,2015-06-24,2015/6/24 22:37,2015/6/25 6:20,0.82,7:43:00,:),Drank coffee:Stressful day:Worked out,58,0,463,"['Drank coffee', 'Stressful day', 'Worked out']"
+126,2015-07-11,2015/7/11 22:29,2015/7/12 8:00,0.98,9:31:00,:),Drank coffee:Stressful day,69,0,571,"['Drank coffee', 'Stressful day']"
+127,2015-07-19,2015/7/19 21:38,2015/7/20 6:09,0.69,8:31:00,:),Drank coffee,74,0,511,['Drank coffee']
+128,2015-07-20,2015/7/20 22:01,2015/7/21 5:04,0.68,7:03:00,:),Drank coffee:Drank tea:Worked out,,0,423,"['Drank coffee', 'Drank tea', 'Worked out']"
+129,2015-07-21,2015/7/21 22:02,2015/7/22 5:45,0.79,7:42:00,:),Drank coffee:Drank tea:Worked out,67,0,462,"['Drank coffee', 'Drank tea', 'Worked out']"
+130,2015-07-23,2015/7/23 22:29,2015/7/24 6:44,0.86,8:14:00,:),Drank coffee:Stressful day:Worked out,,0,494,"['Drank coffee', 'Stressful day', 'Worked out']"
+131,2015-07-26,2015/7/26 22:29,2015/7/27 6:20,0.93,7:50:00,:),Drank coffee:Worked out,58,0,470,"['Drank coffee', 'Worked out']"
+132,2015-07-28,2015/7/28 21:32,2015/7/29 5:39,0.68,8:07:00,:),Drank coffee:Drank tea:Stressful day:Worked out,58,0,487,"['Drank coffee', 'Drank tea', 'Stressful day', 'Worked out']"
+133,2015-07-29,2015/7/29 23:06,2015/7/30 5:40,0.71,6:34:00,:),Drank coffee:Drank tea:Worked out,61,0,394,"['Drank coffee', 'Drank tea', 'Worked out']"
+134,2015-07-30,2015/7/30 21:40,2015/7/31 5:40,0.88,8:00:00,:),Drank coffee:Worked out,64,0,480,"['Drank coffee', 'Worked out']"
+135,2015-08-01,2015/8/1 1:41,2015/8/1 8:31,0.77,6:49:00,:),Drank coffee:Drank tea:Worked out,64,0,409,"['Drank coffee', 'Drank tea', 'Worked out']"
+136,2015-08-01,2015/8/1 22:55,2015/8/2 8:02,0.97,9:06:00,:),Drank coffee:Worked out,,0,546,"['Drank coffee', 'Worked out']"
+138,2015-08-03,2015/8/3 0:26,2015/8/3 7:25,0.88,6:59:00,:),Drank coffee:Worked out,68,0,419,"['Drank coffee', 'Worked out']"
+139,2015-08-03,2015/8/3 21:46,2015/8/4 5:00,0.71,7:14:00,:),Drank coffee:Stressful day:Worked out,,0,434,"['Drank coffee', 'Stressful day', 'Worked out']"
+140,2015-08-04,2015/8/4 21:17,2015/8/5 4:55,0.81,7:38:00,:),Drank coffee:Drank tea:Worked out,,0,458,"['Drank coffee', 'Drank tea', 'Worked out']"
+141,2015-08-05,2015/8/5 21:35,2015/8/6 4:55,0.78,7:19:00,:),Drank coffee:Drank tea:Worked out,57,0,439,"['Drank coffee', 'Drank tea', 'Worked out']"
+142,2015-08-08,2015/8/8 0:19,2015/8/8 7:56,0.97,7:37:00,:),Drank coffee:Worked out,54,0,457,"['Drank coffee', 'Worked out']"
+143,2015-08-10,2015/8/10 0:01,2015/8/10 5:03,0.65,5:02:00,:),Drank coffee,,0,302,['Drank coffee']
+144,2015-08-10,2015/8/10 21:11,2015/8/11 6:09,0.72,8:58:00,:),Drank coffee:Drank tea:Worked out,50,0,538,"['Drank coffee', 'Drank tea', 'Worked out']"
+145,2015-08-15,2015/8/15 23:41,2015/8/16 7:27,0.84,7:46:00,:),Drank coffee,,0,466,['Drank coffee']
+146,2015-08-16,2015/8/16 21:44,2015/8/17 4:45,0.58,7:00:00,:),Drank coffee,56,0,420,['Drank coffee']
+147,2015-08-17,2015/8/17 22:13,2015/8/18 5:27,0.85,7:14:00,:),Drank coffee:Drank tea:Worked out,,0,434,"['Drank coffee', 'Drank tea', 'Worked out']"
+148,2015-08-18,2015/8/18 22:33,2015/8/19 6:45,0.9,8:12:00,:),Drank coffee:Drank tea:Worked out,57,0,492,"['Drank coffee', 'Drank tea', 'Worked out']"
+149,2015-08-19,2015/8/19 21:48,2015/8/20 6:01,0.79,8:12:00,:),Drank coffee:Worked out,51,0,492,"['Drank coffee', 'Worked out']"
+150,2015-08-20,2015/8/20 22:36,2015/8/21 6:00,0.69,7:23:00,:),Drank coffee,58,0,443,['Drank coffee']
+151,2015-08-21,2015/8/21 21:52,2015/8/22 6:00,0.88,8:07:00,:),Drank coffee:Stressful day,,0,487,"['Drank coffee', 'Stressful day']"
+152,2015-08-22,2015/8/22 21:59,2015/8/23 5:49,0.9,7:49:00,:),Drank coffee,52,0,469,['Drank coffee']
+153,2015-08-23,2015/8/23 21:59,2015/8/24 5:29,0.83,7:30:00,:),Ate late:Drank coffee:Drank tea,52,0,450,"['Ate late', 'Drank coffee', 'Drank tea']"
+154,2015-08-25,2015/8/25 21:57,2015/8/26 5:45,0.67,7:48:00,:),Drank coffee,,0,468,['Drank coffee']
+155,2015-08-26,2015/8/26 21:14,2015/8/27 5:45,0.9,8:30:00,:),Drank coffee:Stressful day,,0,510,"['Drank coffee', 'Stressful day']"
+156,2015-08-27,2015/8/27 21:19,2015/8/28 5:45,0.93,8:26:00,:|,,60,0,506,['nan']
+157,2015-08-28,2015/8/28 22:01,2015/8/29 6:00,0.85,7:59:00,:),Drank coffee:Drank tea,62,0,479,"['Drank coffee', 'Drank tea']"
+158,2015-08-30,2015/8/30 22:00,2015/8/31 6:00,0.84,8:00:00,:),Drank coffee,66,0,480,['Drank coffee']
+159,2015-08-31,2015/8/31 22:14,2015/9/1 6:00,0.77,7:46:00,:),Drank coffee,,0,466,['Drank coffee']
+160,2015-09-01,2015/9/1 22:00,2015/9/2 6:00,0.85,7:59:00,:),Drank tea,65,0,479,['Drank tea']
+161,2015-09-02,2015/9/2 23:36,2015/9/3 7:10,0.77,7:33:00,:),Drank coffee,57,0,453,['Drank coffee']
+162,2015-09-05,2015/9/5 22:54,2015/9/6 6:59,0.87,8:04:00,:),Drank coffee,,0,484,['Drank coffee']
+163,2015-09-07,2015/9/7 22:45,2015/9/8 6:13,0.84,7:27:00,:),Drank coffee:Drank tea,61,0,447,"['Drank coffee', 'Drank tea']"
+164,2015-09-08,2015/9/8 22:03,2015/9/9 6:04,0.86,8:01:00,:),Drank tea:Worked out,,0,481,"['Drank tea', 'Worked out']"
+165,2015-09-09,2015/9/9 22:40,2015/9/10 6:10,0.83,7:29:00,:),Drank coffee:Drank tea:Worked out,,0,449,"['Drank coffee', 'Drank tea', 'Worked out']"
+166,2015-09-10,2015/9/10 22:10,2015/9/11 4:57,0.77,6:46:00,:),Drank coffee:Drank tea:Worked out,,0,406,"['Drank coffee', 'Drank tea', 'Worked out']"
+167,2015-09-12,2015/9/12 0:06,2015/9/12 7:41,0.81,7:35:00,:),Drank coffee:Worked out,,0,455,"['Drank coffee', 'Worked out']"
+168,2015-09-13,2015/9/13 22:03,2015/9/14 5:50,0.81,7:47:00,:),Drank coffee,,0,467,['Drank coffee']
+169,2015-09-14,2015/9/14 22:33,2015/9/15 6:30,0.83,7:56:00,:),Drank coffee:Stressful day:Worked out,,0,476,"['Drank coffee', 'Stressful day', 'Worked out']"
+170,2015-09-15,2015/9/15 22:14,2015/9/16 5:55,0.7,7:40:00,:),Drank coffee:Worked out,,0,460,"['Drank coffee', 'Worked out']"
+171,2015-09-16,2015/9/16 21:59,2015/9/17 6:20,0.8,8:20:00,:),Drank coffee:Drank tea:Worked out,59,0,500,"['Drank coffee', 'Drank tea', 'Worked out']"
+172,2015-09-17,2015/9/17 22:57,2015/9/18 6:20,0.6,7:22:00,:),Drank coffee:Drank tea:Worked out,56,0,442,"['Drank coffee', 'Drank tea', 'Worked out']"
+173,2015-09-19,2015/9/19 0:31,2015/9/19 6:55,0.55,6:23:00,:),Drank coffee,,0,383,['Drank coffee']
+174,2015-09-19,2015/9/19 22:01,2015/9/20 6:48,0.91,8:47:00,:),Drank coffee,,0,527,['Drank coffee']
+175,2015-09-20,2015/9/20 22:07,2015/9/21 6:15,0.79,8:08:00,:),Drank coffee:Drank tea:Worked out,55,0,488,"['Drank coffee', 'Drank tea', 'Worked out']"
+176,2015-09-22,2015/9/22 21:34,2015/9/23 6:15,0.81,8:41:00,:),Drank coffee:Drank tea:Worked out,58,0,521,"['Drank coffee', 'Drank tea', 'Worked out']"
+177,2015-09-23,2015/9/23 21:37,2015/9/24 5:07,0.77,7:29:00,:),Drank coffee:Drank tea:Worked out,49,0,449,"['Drank coffee', 'Drank tea', 'Worked out']"
+178,2015-09-24,2015/9/24 22:37,2015/9/25 6:00,0.83,7:22:00,:),Ate late:Drank coffee:Drank tea:Worked out,,0,442,"['Ate late', 'Drank coffee', 'Drank tea', 'Worked out']"
+179,2015-09-27,2015/9/27 22:57,2015/9/28 7:00,0.82,8:02:00,:),Drank tea,61,0,482,['Drank tea']
+180,2015-09-28,2015/9/28 21:12,2015/9/29 5:15,0.9,8:02:00,:),Drank tea:Worked out,60,0,482,"['Drank tea', 'Worked out']"
+181,2015-09-29,2015/9/29 22:54,2015/9/30 6:20,0.89,7:25:00,:),Ate late:Drank coffee:Drank tea:Worked out,58,0,445,"['Ate late', 'Drank coffee', 'Drank tea', 'Worked out']"
+182,2015-09-30,2015/9/30 23:57,2015/10/1 6:14,0.62,6:16:00,:),Drank coffee:Drank tea:Worked out,55,0,376,"['Drank coffee', 'Drank tea', 'Worked out']"
+183,2015-10-03,2015/10/3 0:09,2015/10/3 7:26,0.69,7:17:00,:),Drank coffee:Worked out,57,0,437,"['Drank coffee', 'Worked out']"
+184,2015-10-11,2015/10/11 0:27,2015/10/11 8:58,1,8:31:00,:),Drank coffee:Stressful day,50,0,511,"['Drank coffee', 'Stressful day']"
+185,2015-10-12,2015/10/12 21:59,2015/10/13 6:00,0.74,8:01:00,:),Ate late:Drank coffee:Drank tea:Worked out,,0,481,"['Ate late', 'Drank coffee', 'Drank tea', 'Worked out']"
+186,2015-10-13,2015/10/13 22:19,2015/10/14 4:59,0.59,6:40:00,:),Drank coffee:Worked out,,0,400,"['Drank coffee', 'Worked out']"
+188,2015-10-14,2015/10/14 22:40,2015/10/15 6:20,0.68,7:40:00,:),Drank tea:Worked out,65,0,460,"['Drank tea', 'Worked out']"
+189,2015-10-15,2015/10/15 22:12,2015/10/16 6:21,0.67,8:08:00,:),Drank coffee:Drank tea:Worked out,58,0,488,"['Drank coffee', 'Drank tea', 'Worked out']"
+190,2015-10-17,2015/10/17 0:45,2015/10/17 7:37,0.57,6:51:00,:),Drank coffee:Drank tea,,0,411,"['Drank coffee', 'Drank tea']"
+191,2015-10-18,2015/10/18 21:52,2015/10/19 6:20,0.67,8:27:00,:|,Drank coffee,,0,507,['Drank coffee']
+192,2015-10-20,2015/10/20 21:38,2015/10/21 6:20,0.88,8:42:00,:|,Drank coffee:Drank tea,62,0,522,"['Drank coffee', 'Drank tea']"
+193,2015-10-21,2015/10/21 22:41,2015/10/22 6:20,0.77,7:39:00,:),Drank coffee:Drank tea,53,0,459,"['Drank coffee', 'Drank tea']"
+194,2015-10-22,2015/10/22 21:46,2015/10/23 5:30,0.8,7:44:00,:),Drank coffee:Drank tea:Worked out,70,0,464,"['Drank coffee', 'Drank tea', 'Worked out']"
+195,2015-10-24,2015/10/24 0:32,2015/10/24 8:12,0.77,7:40:00,:),Drank coffee:Drank tea:Worked out,,0,460,"['Drank coffee', 'Drank tea', 'Worked out']"
+196,2015-10-24,2015/10/24 22:38,2015/10/25 6:33,0.81,7:55:00,:),Drank coffee:Drank tea,,0,475,"['Drank coffee', 'Drank tea']"
+197,2015-10-26,2015/10/26 23:09,2015/10/27 6:05,0.77,6:55:00,:),Drank coffee:Drank tea,65,0,415,"['Drank coffee', 'Drank tea']"
+198,2015-10-27,2015/10/27 21:34,2015/10/28 5:35,0.78,8:01:00,:|,Drank coffee:Worked out,,0,481,"['Drank coffee', 'Worked out']"
+199,2015-10-28,2015/10/28 22:28,2015/10/29 6:20,0.83,7:51:00,:|,Drank tea:Worked out,53,0,471,"['Drank tea', 'Worked out']"
+200,2015-10-29,2015/10/29 22:30,2015/10/30 6:10,0.81,7:40:00,:|,Drank tea:Worked out,57,0,460,"['Drank tea', 'Worked out']"
+201,2015-10-31,2015/10/31 1:01,2015/10/31 7:50,0.5,6:48:00,:),Drank coffee:Drank tea,,0,408,"['Drank coffee', 'Drank tea']"
+202,2015-11-02,2015/11/2 22:00,2015/11/3 6:10,0.83,8:09:00,:|,Drank coffee:Drank tea:Worked out,55,0,489,"['Drank coffee', 'Drank tea', 'Worked out']"
+203,2015-11-03,2015/11/3 22:46,2015/11/4 6:09,0.75,7:23:00,:|,Drank coffee:Drank tea:Worked out,,0,443,"['Drank coffee', 'Drank tea', 'Worked out']"
+204,2015-11-04,2015/11/4 22:49,2015/11/5 6:00,0.65,7:11:00,:|,Drank coffee:Drank tea:Worked out,,0,431,"['Drank coffee', 'Drank tea', 'Worked out']"
+205,2015-11-05,2015/11/5 21:36,2015/11/6 5:29,0.77,7:52:00,:|,Drank coffee:Drank tea:Worked out,,0,472,"['Drank coffee', 'Drank tea', 'Worked out']"
+206,2015-11-07,2015/11/7 0:19,2015/11/7 8:13,0.93,7:54:00,:),Drank coffee:Drank tea:Worked out,98,0,474,"['Drank coffee', 'Drank tea', 'Worked out']"
+207,2015-11-08,2015/11/8 23:28,2015/11/9 6:20,0.69,6:52:00,:),Drank coffee:Drank tea,,0,412,"['Drank coffee', 'Drank tea']"
+208,2015-11-09,2015/11/9 21:59,2015/11/10 5:41,0.88,7:41:00,:),Drank coffee:Drank tea:Worked out,,0,461,"['Drank coffee', 'Drank tea', 'Worked out']"
+209,2015-11-10,2015/11/10 22:56,2015/11/11 6:28,0.83,7:32:00,:),Drank coffee:Drank tea:Worked out,,0,452,"['Drank coffee', 'Drank tea', 'Worked out']"
+210,2015-11-11,2015/11/11 22:57,2015/11/12 6:20,0.72,7:23:00,:),Drank coffee:Drank tea,,0,443,"['Drank coffee', 'Drank tea']"
+211,2015-11-13,2015/11/13 22:59,2015/11/14 7:46,0.96,8:46:00,:),Drank coffee:Drank tea,59,0,526,"['Drank coffee', 'Drank tea']"
+212,2015-11-15,2015/11/15 22:17,2015/11/16 6:30,0.72,8:13:00,:),Drank coffee:Drank tea,62,0,493,"['Drank coffee', 'Drank tea']"
+213,2015-11-18,2015/11/18 22:07,2015/11/19 5:30,0.8,7:23:00,:),Ate late:Drank coffee:Drank tea:Worked out,63,0,443,"['Ate late', 'Drank coffee', 'Drank tea', 'Worked out']"
+214,2015-11-19,2015/11/19 23:10,2015/11/20 6:00,0.73,6:50:00,:),Drank coffee:Drank tea:Worked out,62,0,410,"['Drank coffee', 'Drank tea', 'Worked out']"
+215,2015-11-22,2015/11/22 21:57,2015/11/23 5:30,0.83,7:33:00,:),Drank tea,,0,453,['Drank tea']
+216,2015-11-23,2015/11/23 22:15,2015/11/24 5:00,0.74,6:44:00,:),Drank coffee:Drank tea:Worked out,,0,404,"['Drank coffee', 'Drank tea', 'Worked out']"
+217,2015-11-24,2015/11/24 22:33,2015/11/25 6:30,0.87,7:57:00,:),Drank coffee:Drank tea:Worked out,,0,477,"['Drank coffee', 'Drank tea', 'Worked out']"
+218,2015-11-25,2015/11/25 23:26,2015/11/26 6:20,0.69,6:54:00,:),Drank coffee:Drank tea:Worked out,,0,414,"['Drank coffee', 'Drank tea', 'Worked out']"
+219,2015-11-26,2015/11/26 22:25,2015/11/27 6:20,0.81,7:55:00,:),Drank coffee:Drank tea:Worked out,,0,475,"['Drank coffee', 'Drank tea', 'Worked out']"
+220,2015-11-28,2015/11/28 1:20,2015/11/28 7:46,0.58,6:25:00,:),Drank coffee:Drank tea:Worked out,59,0,385,"['Drank coffee', 'Drank tea', 'Worked out']"
+221,2015-11-29,2015/11/29 22:20,2015/11/30 6:20,0.68,7:59:00,:),Drank tea,,0,479,['Drank tea']
+222,2015-11-30,2015/11/30 21:23,2015/12/1 6:19,0.64,8:55:00,:),Drank coffee:Drank tea:Worked out,,0,535,"['Drank coffee', 'Drank tea', 'Worked out']"
+223,2015-12-01,2015/12/1 23:03,2015/12/2 6:20,0.84,7:17:00,:),Drank coffee:Drank tea:Worked out,57,0,437,"['Drank coffee', 'Drank tea', 'Worked out']"
+224,2015-12-02,2015/12/2 22:19,2015/12/3 5:11,0.75,6:51:00,:),Drank coffee:Drank tea,,0,411,"['Drank coffee', 'Drank tea']"
+225,2015-12-03,2015/12/3 22:51,2015/12/4 5:01,0.7,6:09:00,:),Ate late:Drank coffee:Drank tea,,0,369,"['Ate late', 'Drank coffee', 'Drank tea']"
+226,2015-12-06,2015/12/6 22:10,2015/12/7 5:31,0.86,7:20:00,:),Drank coffee:Drank tea,68,0,440,"['Drank coffee', 'Drank tea']"
+227,2015-12-07,2015/12/7 21:20,2015/12/8 5:00,0.86,7:40:00,:),Drank tea:Stressful day:Worked out,61,0,460,"['Drank tea', 'Stressful day', 'Worked out']"
+228,2015-12-08,2015/12/8 22:17,2015/12/9 5:45,0.79,7:28:00,:),Drank coffee:Drank tea:Stressful day:Worked out,,0,448,"['Drank coffee', 'Drank tea', 'Stressful day', 'Worked out']"
+229,2015-12-09,2015/12/9 21:57,2015/12/10 6:10,0.93,8:13:00,:),Drank tea:Stressful day:Worked out,67,0,493,"['Drank tea', 'Stressful day', 'Worked out']"
+230,2015-12-13,2015/12/13 0:08,2015/12/13 8:23,0.77,8:14:00,:),Drank coffee,,0,494,['Drank coffee']
+231,2015-12-13,2015/12/13 22:07,2015/12/14 6:09,0.8,8:02:00,:),Drank coffee,52,0,482,['Drank coffee']
+232,2015-12-15,2015/12/15 22:32,2015/12/16 6:10,0.75,7:37:00,:),Drank coffee:Drank tea:Worked out,,0,457,"['Drank coffee', 'Drank tea', 'Worked out']"
+233,2015-12-16,2015/12/16 22:20,2015/12/17 5:40,0.84,7:20:00,:),Drank coffee:Drank tea:Stressful day,,0,440,"['Drank coffee', 'Drank tea', 'Stressful day']"
+234,2015-12-17,2015/12/17 21:07,2015/12/18 5:45,1,8:37:00,:),Drank coffee:Drank tea:Worked out,,0,517,"['Drank coffee', 'Drank tea', 'Worked out']"
+235,2015-12-20,2015/12/20 22:19,2015/12/21 6:20,0.72,8:00:00,:|,Drank coffee:Drank tea:Worked out,56,0,480,"['Drank coffee', 'Drank tea', 'Worked out']"
+236,2015-12-21,2015/12/21 22:06,2015/12/22 5:29,0.8,7:23:00,:|,Drank coffee:Worked out,,0,443,"['Drank coffee', 'Worked out']"
+237,2015-12-22,2015/12/22 21:41,2015/12/23 5:43,0.82,8:01:00,:),Drank coffee:Drank tea:Worked out,,0,481,"['Drank coffee', 'Drank tea', 'Worked out']"
+238,2015-12-23,2015/12/23 22:33,2015/12/24 6:01,0.79,7:27:00,:),Drank coffee:Drank tea,,0,447,"['Drank coffee', 'Drank tea']"
+239,2015-12-29,2015/12/29 22:44,2015/12/30 7:00,0.76,8:16:00,:|,Drank coffee,,0,496,['Drank coffee']
+240,2016-01-01,2016/1/1 23:53,2016/1/2 8:27,0.79,8:33:00,:|,Drank coffee:Drank tea,71,0,513,"['Drank coffee', 'Drank tea']"
+241,2016-01-02,2016/1/2 23:49,2016/1/3 8:13,0.85,8:24:00,:),Drank coffee:Drank tea,65,0,504,"['Drank coffee', 'Drank tea']"
+242,2016-01-03,2016/1/3 21:44,2016/1/4 5:35,0.69,7:51:00,:),Drank coffee,,0,471,['Drank coffee']
+243,2016-01-04,2016/1/4 22:17,2016/1/5 5:45,0.74,7:28:00,:|,Drank coffee:Drank tea:Stressful day,,0,448,"['Drank coffee', 'Drank tea', 'Stressful day']"
+244,2016-01-05,2016/1/5 22:18,2016/1/6 6:20,0.66,8:01:00,:|,Drank coffee:Worked out,,0,481,"['Drank coffee', 'Worked out']"
+245,2016-01-13,2016/1/13 22:44,2016/1/14 6:20,0.72,7:35:00,:|,Ate late:Drank coffee:Drank tea:Stressful day,,0,455,"['Ate late', 'Drank coffee', 'Drank tea', 'Stressful day']"
+246,2016-01-14,2016/1/14 22:10,2016/1/15 5:28,0.73,7:17:00,:|,Drank coffee:Drank tea:Worked out,,0,437,"['Drank coffee', 'Drank tea', 'Worked out']"
+247,2016-01-17,2016/1/17 22:00,2016/1/18 5:30,0.76,7:29:00,:|,Drank coffee:Drank tea:Worked out,,0,449,"['Drank coffee', 'Drank tea', 'Worked out']"
+248,2016-01-18,2016/1/18 21:56,2016/1/19 5:34,0.78,7:38:00,,Ate late:Drank coffee:Drank tea,,0,458,"['Ate late', 'Drank coffee', 'Drank tea']"
+249,2016-01-19,2016/1/19 22:46,2016/1/20 6:35,0.75,7:48:00,,Drank coffee:Drank tea:Worked out,,0,468,"['Drank coffee', 'Drank tea', 'Worked out']"
+250,2016-01-20,2016/1/20 21:13,2016/1/21 6:29,0.77,9:15:00,,Drank coffee:Drank tea,,0,555,"['Drank coffee', 'Drank tea']"
+251,2016-01-21,2016/1/21 21:33,2016/1/22 6:23,0.79,8:50:00,,Drank coffee,,0,530,['Drank coffee']
+252,2016-01-22,2016/1/22 22:17,2016/1/23 8:14,0.79,9:57:00,,Drank coffee:Worked out,,0,597,"['Drank coffee', 'Worked out']"
+253,2016-01-24,2016/1/24 22:06,2016/1/25 6:30,0.85,8:23:00,,Drank coffee:Drank tea:Worked out,,0,503,"['Drank coffee', 'Drank tea', 'Worked out']"
+254,2016-01-25,2016/1/25 22:27,2016/1/26 6:38,0.88,8:10:00,,Drank coffee,,0,490,['Drank coffee']
+255,2016-01-26,2016/1/26 22:58,2016/1/27 6:28,0.83,7:29:00,,Drank coffee:Drank tea:Worked out,,0,449,"['Drank coffee', 'Drank tea', 'Worked out']"
+256,2016-01-27,2016/1/27 22:02,2016/1/28 5:23,0.84,7:20:00,,Drank coffee:Drank tea:Worked out,,0,440,"['Drank coffee', 'Drank tea', 'Worked out']"
+257,2016-01-28,2016/1/28 22:11,2016/1/29 5:26,0.76,7:15:00,,Drank coffee:Drank tea:Worked out,,0,435,"['Drank coffee', 'Drank tea', 'Worked out']"
+258,2016-01-29,2016/1/29 21:47,2016/1/30 6:06,0.88,8:19:00,,Drank coffee:Drank tea:Worked out,,0,499,"['Drank coffee', 'Drank tea', 'Worked out']"
+259,2016-01-31,2016/1/31 22:58,2016/2/1 6:19,0.78,7:20:00,,Drank coffee,,0,440,['Drank coffee']
+260,2016-02-01,2016/2/1 22:02,2016/2/2 5:27,0.82,7:25:00,,Drank coffee:Drank tea:Worked out,,0,445,"['Drank coffee', 'Drank tea', 'Worked out']"
+261,2016-02-02,2016/2/2 21:47,2016/2/3 5:20,0.72,7:33:00,,Drank coffee:Worked out,,0,453,"['Drank coffee', 'Worked out']"
+262,2016-02-03,2016/2/3 22:54,2016/2/4 6:20,0.79,7:26:00,,Drank coffee:Worked out,,0,446,"['Drank coffee', 'Worked out']"
+263,2016-02-04,2016/2/4 22:17,2016/2/5 6:53,0.74,8:35:00,,Drank coffee:Stressful day:Worked out,,0,515,"['Drank coffee', 'Stressful day', 'Worked out']"
+264,2016-02-05,2016/2/5 23:45,2016/2/6 7:35,0.84,7:50:00,,Drank coffee,,0,470,['Drank coffee']
+265,2016-02-06,2016/2/6 22:55,2016/2/7 7:35,0.91,8:40:00,,Drank tea,,0,520,['Drank tea']
+266,2016-02-08,2016/2/8 0:44,2016/2/8 7:45,0.68,7:01:00,,Drank coffee:Drank tea,,0,421,"['Drank coffee', 'Drank tea']"
+267,2016-02-08,2016/2/8 22:43,2016/2/9 6:40,0.77,7:56:00,,Drank coffee:Drank tea:Worked out,,0,476,"['Drank coffee', 'Drank tea', 'Worked out']"
+268,2016-02-09,2016/2/9 21:57,2016/2/10 5:31,0.66,7:33:00,,Drank coffee:Worked out,,0,453,"['Drank coffee', 'Worked out']"
+269,2016-02-13,2016/2/13 23:41,2016/2/14 5:11,0.38,5:30:00,,Drank coffee,,0,330,['Drank coffee']
+270,2016-02-14,2016/2/14 22:07,2016/2/15 5:53,0.84,7:45:00,,Drank coffee:Stressful day,,0,465,"['Drank coffee', 'Stressful day']"
+271,2016-02-15,2016/2/15 22:07,2016/2/16 5:25,0.76,7:18:00,,Drank coffee:Worked out,,0,438,"['Drank coffee', 'Worked out']"
+272,2016-02-16,2016/2/16 22:20,2016/2/17 5:32,0.7,7:12:00,,Drank coffee:Worked out,,0,432,"['Drank coffee', 'Worked out']"
+273,2016-02-17,2016/2/17 21:33,2016/2/18 6:24,0.9,8:51:00,,Drank coffee:Stressful day:Worked out,,0,531,"['Drank coffee', 'Stressful day', 'Worked out']"
+274,2016-02-18,2016/2/18 22:47,2016/2/19 6:26,0.77,7:39:00,,Drank coffee:Drank tea:Worked out,,0,459,"['Drank coffee', 'Drank tea', 'Worked out']"
+275,2016-02-20,2016/2/20 23:12,2016/2/21 7:41,0.69,8:28:00,,Drank coffee,,0,508,['Drank coffee']
+276,2016-02-22,2016/2/22 22:04,2016/2/23 6:23,0.85,8:19:00,,Drank coffee,,0,499,['Drank coffee']
+277,2016-02-23,2016/2/23 22:18,2016/2/24 6:25,0.94,8:06:00,,Drank coffee:Worked out,,0,486,"['Drank coffee', 'Worked out']"
+278,2016-02-24,2016/2/24 21:59,2016/2/25 5:43,0.88,7:44:00,,Drank tea:Worked out,,0,464,"['Drank tea', 'Worked out']"
+279,2016-02-26,2016/2/26 0:15,2016/2/26 6:35,0.68,6:20:00,,Drank tea:Worked out,,0,380,"['Drank tea', 'Worked out']"
+280,2016-02-27,2016/2/27 23:33,2016/2/28 7:50,0.92,8:17:00,,Drank coffee,,0,497,['Drank coffee']
+281,2016-02-28,2016/2/28 22:19,2016/2/29 5:45,0.64,7:25:00,,Drank tea,,0,445,['Drank tea']
+282,2016-02-29,2016/2/29 21:55,2016/3/1 6:22,0.78,8:26:00,,Drank tea:Worked out,,0,506,"['Drank tea', 'Worked out']"
+283,2016-03-01,2016/3/1 23:22,2016/3/2 5:50,0.7,6:28:00,,Drank tea:Worked out,,0,388,"['Drank tea', 'Worked out']"
+284,2016-03-02,2016/3/2 22:15,2016/3/3 6:21,0.95,8:06:00,,Drank coffee:Drank tea:Worked out,,0,486,"['Drank coffee', 'Drank tea', 'Worked out']"
+285,2016-03-03,2016/3/3 22:01,2016/3/4 6:17,0.9,8:16:00,,Drank tea:Worked out,,0,496,"['Drank tea', 'Worked out']"
+286,2016-03-05,2016/3/5 23:20,2016/3/6 7:31,0.98,8:11:00,,Drank tea,,0,491,['Drank tea']
+287,2016-03-06,2016/3/6 23:08,2016/3/7 6:19,0.7,7:11:00,,Drank coffee:Drank tea,,0,431,"['Drank coffee', 'Drank tea']"
+288,2016-03-07,2016/3/7 22:50,2016/3/8 6:22,0.75,7:32:00,,Drank tea:Worked out,,0,452,"['Drank tea', 'Worked out']"
+289,2016-03-08,2016/3/8 21:40,2016/3/9 6:25,0.91,8:44:00,,Drank tea:Worked out,,0,524,"['Drank tea', 'Worked out']"
+290,2016-03-09,2016/3/9 22:40,2016/3/10 5:49,0.79,7:09:00,,Drank tea,,0,429,['Drank tea']
+291,2016-03-10,2016/3/10 21:35,2016/3/11 5:34,0.92,7:58:00,,Drank tea:Worked out,,0,478,"['Drank tea', 'Worked out']"
+292,2016-03-12,2016/3/12 1:33,2016/3/12 7:50,0.69,6:17:00,,Drank coffee:Worked out,,0,377,"['Drank coffee', 'Worked out']"
+293,2016-03-12,2016/3/12 23:44,2016/3/13 7:51,0.83,7:07:00,,Drank tea,,0,427,['Drank tea']
+294,2016-03-13,2016/3/13 22:47,2016/3/14 5:40,0.82,6:53:00,,Drank tea:Worked out,,0,413,"['Drank tea', 'Worked out']"
+295,2016-03-14,2016/3/14 22:16,2016/3/15 5:46,0.79,7:29:00,,Drank tea:Worked out,,0,449,"['Drank tea', 'Worked out']"
+296,2016-03-15,2016/3/15 22:41,2016/3/16 6:25,0.85,7:43:00,,Drank coffee:Drank tea:Worked out,,0,463,"['Drank coffee', 'Drank tea', 'Worked out']"
+297,2016-03-16,2016/3/16 22:25,2016/3/17 7:05,0.9,8:39:00,,Drank coffee:Worked out,,0,519,"['Drank coffee', 'Worked out']"
+298,2016-03-17,2016/3/17 22:46,2016/3/18 7:08,0.98,8:22:00,,Drank coffee:Drank tea,,0,502,"['Drank coffee', 'Drank tea']"
+299,2016-03-18,2016/3/18 22:17,2016/3/19 7:47,0.87,9:30:00,,Drank coffee,,0,570,['Drank coffee']
+300,2016-03-20,2016/3/20 22:13,2016/3/21 7:26,0.8,9:13:00,,Drank coffee,,0,553,['Drank coffee']
+301,2016-03-21,2016/3/21 22:37,2016/3/22 7:32,0.8,8:54:00,,Drank coffee,,0,534,['Drank coffee']
+302,2016-03-22,2016/3/22 21:22,2016/3/23 6:19,0.8,8:56:00,,Drank coffee:Drank tea,,0,536,"['Drank coffee', 'Drank tea']"
+303,2016-03-23,2016/3/23 22:06,2016/3/24 5:20,0.65,7:13:00,,Drank coffee:Drank tea:Worked out,,0,433,"['Drank coffee', 'Drank tea', 'Worked out']"
+304,2016-03-27,2016/3/27 23:28,2016/3/28 7:30,0.82,8:01:00,,Drank coffee,,0,481,['Drank coffee']
+305,2016-03-28,2016/3/28 23:32,2016/3/29 6:29,0.75,6:56:00,,Drank coffee:Stressful day:Worked out,,0,416,"['Drank coffee', 'Stressful day', 'Worked out']"
+306,2016-03-29,2016/3/29 23:12,2016/3/30 6:25,0.66,7:13:00,,Drank coffee:Worked out,,0,433,"['Drank coffee', 'Worked out']"
+307,2016-03-30,2016/3/30 22:58,2016/3/31 6:25,0.58,7:26:00,,Drank coffee:Drank tea:Worked out,,0,446,"['Drank coffee', 'Drank tea', 'Worked out']"
+308,2016-03-31,2016/3/31 22:47,2016/4/1 6:30,0.89,7:42:00,,Drank coffee:Drank tea:Worked out,,0,462,"['Drank coffee', 'Drank tea', 'Worked out']"
+309,2016-04-02,2016/4/2 21:20,2016/4/3 7:08,0.86,9:47:00,,Drank coffee,,0,587,['Drank coffee']
+310,2016-04-03,2016/4/3 21:44,2016/4/4 6:24,0.67,8:39:00,,Drank coffee,,0,519,['Drank coffee']
+311,2016-04-04,2016/4/4 21:23,2016/4/5 6:29,0.62,9:05:00,,Drank coffee,,0,545,['Drank coffee']
+312,2016-04-05,2016/4/5 21:13,2016/4/6 6:24,0.81,9:11:00,,Drank coffee:Worked out,,0,551,"['Drank coffee', 'Worked out']"
+313,2016-04-06,2016/4/6 23:00,2016/4/7 5:55,0.73,6:55:00,,Drank coffee:Drank tea:Worked out,,0,415,"['Drank coffee', 'Drank tea', 'Worked out']"
+314,2016-04-07,2016/4/7 21:48,2016/4/8 5:49,0.81,8:00:00,,Ate late:Drank coffee:Drank tea:Worked out,,0,480,"['Ate late', 'Drank coffee', 'Drank tea', 'Worked out']"
+315,2016-04-09,2016/4/9 0:51,2016/4/9 7:21,0.53,6:30:00,,Drank coffee:Drank tea:Worked out,,0,390,"['Drank coffee', 'Drank tea', 'Worked out']"
+316,2016-04-09,2016/4/9 22:59,2016/4/10 7:59,0.94,9:00:00,,Drank coffee:Drank tea:Worked out,,0,540,"['Drank coffee', 'Drank tea', 'Worked out']"
+317,2016-04-10,2016/4/10 22:04,2016/4/11 5:16,0.67,7:12:00,,Drank tea,,0,432,['Drank tea']
+318,2016-04-11,2016/4/11 22:35,2016/4/12 5:54,0.82,7:19:00,,Drank coffee:Drank tea:Stressful day:Worked out,,0,439,"['Drank coffee', 'Drank tea', 'Stressful day', 'Worked out']"
+319,2016-04-12,2016/4/12 22:18,2016/4/13 5:52,0.85,7:33:00,,Drank coffee:Drank tea:Worked out,,0,453,"['Drank coffee', 'Drank tea', 'Worked out']"
+320,2016-04-13,2016/4/13 22:27,2016/4/14 6:13,0.77,7:45:00,,Drank coffee:Drank tea:Worked out,,0,465,"['Drank coffee', 'Drank tea', 'Worked out']"
+321,2016-04-14,2016/4/14 21:43,2016/4/15 6:24,0.94,8:41:00,,Drank coffee:Drank tea:Stressful day:Worked out,,0,521,"['Drank coffee', 'Drank tea', 'Stressful day', 'Worked out']"
+322,2016-04-15,2016/4/15 22:38,2016/4/16 7:25,0.81,8:47:00,,Drank coffee:Drank tea,,0,527,"['Drank coffee', 'Drank tea']"
+323,2016-04-17,2016/4/17 21:34,2016/4/18 6:26,0.75,8:52:00,,Drank coffee:Drank tea,,0,532,"['Drank coffee', 'Drank tea']"
+324,2016-04-19,2016/4/19 21:21,2016/4/20 6:20,0.79,8:59:00,,Drank coffee:Drank tea:Worked out,,0,539,"['Drank coffee', 'Drank tea', 'Worked out']"
+325,2016-04-20,2016/4/20 21:25,2016/4/21 5:35,0.81,8:09:00,,Ate late:Drank coffee:Drank tea:Worked out,,0,489,"['Ate late', 'Drank coffee', 'Drank tea', 'Worked out']"
+326,2016-04-21,2016/4/21 21:54,2016/4/22 5:35,0.79,7:40:00,,,,0,460,['nan']
+328,2016-04-23,2016/4/23 0:46,2016/4/23 7:54,0.65,7:07:00,,Drank coffee:Drank tea:Worked out,,0,427,"['Drank coffee', 'Drank tea', 'Worked out']"
+329,2016-04-24,2016/4/24 22:30,2016/4/25 6:14,0.81,7:43:00,,Drank tea,,0,463,['Drank tea']
+330,2016-04-25,2016/4/25 22:07,2016/4/26 5:39,0.87,7:31:00,,Ate late:Drank coffee:Drank tea:Worked out,,0,451,"['Ate late', 'Drank coffee', 'Drank tea', 'Worked out']"
+331,2016-04-26,2016/4/26 22:48,2016/4/27 6:20,0.74,7:32:00,,Drank coffee:Drank tea:Worked out,,0,452,"['Drank coffee', 'Drank tea', 'Worked out']"
+332,2016-04-27,2016/4/27 22:24,2016/4/28 6:25,0.92,8:01:00,,Drank coffee:Drank tea:Worked out,,0,481,"['Drank coffee', 'Drank tea', 'Worked out']"
+333,2016-04-28,2016/4/28 22:23,2016/4/29 6:17,0.95,7:53:00,,Drank coffee:Drank tea:Worked out,,0,473,"['Drank coffee', 'Drank tea', 'Worked out']"
+334,2016-04-29,2016/4/29 22:47,2016/4/30 5:57,0.81,7:09:00,,Drank coffee:Drank tea:Worked out,,0,429,"['Drank coffee', 'Drank tea', 'Worked out']"
+335,2016-05-01,2016/5/1 21:27,2016/5/2 6:15,0.95,8:47:00,,Drank coffee:Worked out,,0,527,"['Drank coffee', 'Worked out']"
+336,2016-05-02,2016/5/2 21:50,2016/5/3 6:20,0.85,8:29:00,,Drank coffee:Worked out,,0,509,"['Drank coffee', 'Worked out']"
+337,2016-05-03,2016/5/3 22:19,2016/5/4 6:20,0.79,8:01:00,,Drank coffee:Worked out,,0,481,"['Drank coffee', 'Worked out']"
+338,2016-05-04,2016/5/4 22:16,2016/5/5 6:30,0.83,8:13:00,,Drank coffee:Drank tea:Worked out,,0,493,"['Drank coffee', 'Drank tea', 'Worked out']"
+339,2016-05-05,2016/5/5 22:20,2016/5/6 6:15,0.89,7:54:00,,Ate late:Drank coffee,,0,474,"['Ate late', 'Drank coffee']"
+340,2016-05-06,2016/5/6 23:07,2016/5/7 7:08,0.87,8:00:00,,Drank coffee:Drank tea:Stressful day:Worked out,,0,480,"['Drank coffee', 'Drank tea', 'Stressful day', 'Worked out']"
+341,2016-05-07,2016/5/7 23:20,2016/5/8 7:12,0.93,7:51:00,,Drank coffee:Drank tea,,0,471,"['Drank coffee', 'Drank tea']"
+342,2016-05-08,2016/5/8 23:44,2016/5/9 6:20,0.74,6:36:00,,Drank coffee:Drank tea,,0,396,"['Drank coffee', 'Drank tea']"
+343,2016-05-09,2016/5/9 22:10,2016/5/10 5:41,0.83,7:30:00,,Drank coffee:Drank tea:Worked out,,0,450,"['Drank coffee', 'Drank tea', 'Worked out']"
+344,2016-05-10,2016/5/10 23:10,2016/5/11 5:30,0.74,6:20:00,,Drank coffee:Drank tea:Worked out,,0,380,"['Drank coffee', 'Drank tea', 'Worked out']"
+345,2016-05-11,2016/5/11 22:43,2016/5/12 6:25,0.8,7:41:00,,Drank coffee:Drank tea:Worked out,,0,461,"['Drank coffee', 'Drank tea', 'Worked out']"
+346,2016-05-12,2016/5/12 23:50,2016/5/13 6:50,0.83,6:59:00,,Drank coffee:Drank tea:Worked out,,0,419,"['Drank coffee', 'Drank tea', 'Worked out']"
+347,2016-05-13,2016/5/13 23:08,2016/5/14 7:53,1,8:45:00,,Drank coffee:Drank tea:Worked out,,0,525,"['Drank coffee', 'Drank tea', 'Worked out']"
+348,2016-05-15,2016/5/15 21:34,2016/5/16 6:07,0.81,8:33:00,,Drank tea,,0,513,['Drank tea']
+349,2016-05-16,2016/5/16 21:34,2016/5/17 6:15,0.85,8:40:00,,Drank coffee:Worked out,,0,520,"['Drank coffee', 'Worked out']"
+350,2016-05-17,2016/5/17 20:53,2016/5/18 6:10,0.83,9:16:00,,Drank coffee:Worked out,,0,556,"['Drank coffee', 'Worked out']"
+351,2016-05-18,2016/5/18 22:26,2016/5/19 5:40,0.79,7:14:00,,Drank coffee:Stressful day,,0,434,"['Drank coffee', 'Stressful day']"
+352,2016-05-20,2016/5/20 0:00,2016/5/20 6:30,0.76,6:30:00,,Drank coffee:Worked out,,0,390,"['Drank coffee', 'Worked out']"
+353,2016-05-20,2016/5/20 23:14,2016/5/21 7:34,0.91,8:19:00,,Drank coffee:Worked out,,0,499,"['Drank coffee', 'Worked out']"
+354,2016-05-23,2016/5/23 22:34,2016/5/24 5:30,0.75,6:55:00,,Drank coffee,,0,415,['Drank coffee']
+355,2016-05-24,2016/5/24 22:00,2016/5/25 5:35,0.9,7:35:00,,Drank coffee:Worked out,,0,455,"['Drank coffee', 'Worked out']"
+356,2016-05-25,2016/5/25 22:21,2016/5/26 6:31,0.88,8:09:00,,Drank coffee:Worked out,,0,489,"['Drank coffee', 'Worked out']"
+357,2016-05-26,2016/5/26 22:08,2016/5/27 6:19,0.89,8:11:00,,Drank coffee:Worked out,,0,491,"['Drank coffee', 'Worked out']"
+358,2016-05-28,2016/5/28 0:19,2016/5/28 7:15,0.72,6:56:00,,Drank coffee:Worked out,,0,416,"['Drank coffee', 'Worked out']"
+359,2016-05-29,2016/5/29 22:04,2016/5/30 6:40,1,8:36:00,,Drank coffee,,0,516,['Drank coffee']
+360,2016-05-30,2016/5/30 22:07,2016/5/31 6:08,0.72,8:00:00,,Drank coffee:Stressful day,,0,480,"['Drank coffee', 'Stressful day']"
+361,2016-05-31,2016/5/31 23:02,2016/6/1 6:31,0.7,7:28:00,,Drank coffee:Worked out,,0,448,"['Drank coffee', 'Worked out']"
+362,2016-06-01,2016/6/1 23:01,2016/6/2 5:48,0.67,6:46:00,,Drank coffee:Worked out,,0,406,"['Drank coffee', 'Worked out']"
+363,2016-06-02,2016/6/2 22:51,2016/6/3 5:31,0.65,6:39:00,,Drank coffee:Worked out,,0,399,"['Drank coffee', 'Worked out']"
+364,2016-06-05,2016/6/5 22:33,2016/6/6 5:51,0.71,7:18:00,,Worked out,,0,438,['Worked out']
+365,2016-06-06,2016/6/6 23:26,2016/6/7 5:31,0.7,6:05:00,,Drank coffee:Worked out,,0,365,"['Drank coffee', 'Worked out']"
+366,2016-06-07,2016/6/7 22:32,2016/6/8 5:32,0.77,6:59:00,,Drank coffee:Worked out,,0,419,"['Drank coffee', 'Worked out']"
+367,2016-06-08,2016/6/8 21:56,2016/6/9 6:16,0.76,8:20:00,,Drank coffee:Worked out,,0,500,"['Drank coffee', 'Worked out']"
+368,2016-06-09,2016/6/9 22:07,2016/6/10 6:35,0.87,8:27:00,,Ate late:Drank coffee:Worked out,,0,507,"['Ate late', 'Drank coffee', 'Worked out']"
+369,2016-06-11,2016/6/11 22:42,2016/6/12 8:41,0.93,9:58:00,,Drank tea,,0,598,['Drank tea']
+370,2016-06-12,2016/6/12 22:52,2016/6/13 6:32,0.77,7:39:00,,Drank tea,,0,459,['Drank tea']
+371,2016-06-13,2016/6/13 22:03,2016/6/14 6:26,0.82,8:22:00,,Drank tea:Worked out,,0,502,"['Drank tea', 'Worked out']"
+372,2016-06-14,2016/6/14 22:32,2016/6/15 6:30,0.68,7:58:00,,Drank coffee:Drank tea,,0,478,"['Drank coffee', 'Drank tea']"
+373,2016-06-16,2016/6/16 0:46,2016/6/16 6:25,0.64,5:38:00,,Drank coffee:Drank tea:Worked out,,0,338,"['Drank coffee', 'Drank tea', 'Worked out']"
+374,2016-06-16,2016/6/16 22:06,2016/6/17 6:01,0.83,7:54:00,,Drank coffee:Drank tea:Worked out,,0,474,"['Drank coffee', 'Drank tea', 'Worked out']"
+375,2016-06-17,2016/6/17 23:28,2016/6/18 7:23,0.79,7:54:00,,Drank coffee:Drank tea:Worked out,,0,474,"['Drank coffee', 'Drank tea', 'Worked out']"
+376,2016-06-19,2016/6/19 23:00,2016/6/20 6:00,0.74,6:59:00,,Drank coffee,,0,419,['Drank coffee']
+377,2016-06-20,2016/6/20 22:34,2016/6/21 5:50,0.83,7:15:00,,Drank coffee:Worked out,,0,435,"['Drank coffee', 'Worked out']"
+378,2016-06-21,2016/6/21 22:11,2016/6/22 5:40,0.83,7:29:00,,Drank coffee:Worked out,,0,449,"['Drank coffee', 'Worked out']"
+379,2016-06-22,2016/6/22 22:41,2016/6/23 6:22,0.82,7:41:00,,Drank coffee:Worked out,,0,461,"['Drank coffee', 'Worked out']"
+380,2016-06-23,2016/6/23 22:32,2016/6/24 6:32,0.86,8:00:00,,Drank coffee:Worked out,,0,480,"['Drank coffee', 'Worked out']"
+381,2016-06-26,2016/6/26 22:16,2016/6/27 6:30,0.64,8:14:00,,Drank coffee,,0,494,['Drank coffee']
+382,2016-06-27,2016/6/27 23:48,2016/6/28 6:47,0.62,6:58:00,,Drank coffee:Stressful day:Worked out,,0,418,"['Drank coffee', 'Stressful day', 'Worked out']"
+383,2016-06-28,2016/6/28 23:10,2016/6/29 6:35,0.77,7:25:00,,Drank coffee:Worked out,,0,445,"['Drank coffee', 'Worked out']"
+384,2016-06-29,2016/6/29 22:32,2016/6/30 5:55,0.83,7:23:00,,Drank coffee:Stressful day:Worked out,,0,443,"['Drank coffee', 'Stressful day', 'Worked out']"
+385,2016-07-01,2016/7/1 23:32,2016/7/2 7:32,0.9,8:00:00,,Drank coffee,,0,480,['Drank coffee']
+386,2016-07-03,2016/7/3 21:49,2016/7/4 6:02,0.86,8:12:00,,,,0,492,['nan']
+387,2016-07-04,2016/7/4 21:39,2016/7/5 5:50,0.85,8:11:00,,Drank coffee:Worked out,,0,491,"['Drank coffee', 'Worked out']"
+388,2016-07-05,2016/7/5 22:48,2016/7/6 6:05,0.75,7:16:00,,Drank coffee:Stressful day:Worked out,,0,436,"['Drank coffee', 'Stressful day', 'Worked out']"
+389,2016-07-06,2016/7/6 22:13,2016/7/7 6:15,0.92,8:02:00,,Drank coffee:Worked out,,0,482,"['Drank coffee', 'Worked out']"
+390,2016-07-07,2016/7/7 22:53,2016/7/8 7:05,0.96,8:12:00,,Drank coffee:Worked out,,0,492,"['Drank coffee', 'Worked out']"
+391,2016-07-10,2016/7/10 22:18,2016/7/11 6:17,0.85,7:59:00,,Drank coffee,,0,479,['Drank coffee']
+392,2016-07-11,2016/7/11 21:24,2016/7/12 6:15,0.99,8:50:00,,Drank coffee:Worked out,,0,530,"['Drank coffee', 'Worked out']"
+393,2016-07-12,2016/7/12 22:02,2016/7/13 6:15,0.96,8:13:00,,Drank coffee:Worked out,,0,493,"['Drank coffee', 'Worked out']"
+394,2016-07-13,2016/7/13 23:13,2016/7/14 6:15,0.78,7:02:00,,Drank coffee:Worked out,,0,422,"['Drank coffee', 'Worked out']"
+395,2016-07-14,2016/7/14 22:39,2016/7/15 6:15,0.84,7:35:00,,Drank coffee:Stressful day:Worked out,,0,455,"['Drank coffee', 'Stressful day', 'Worked out']"
+396,2016-07-16,2016/7/16 0:32,2016/7/16 8:19,0.87,7:47:00,,Drank coffee:Worked out,,0,467,"['Drank coffee', 'Worked out']"
+397,2016-07-16,2016/7/16 23:20,2016/7/17 7:31,0.98,8:10:00,,Drank coffee:Worked out,,0,490,"['Drank coffee', 'Worked out']"
+398,2016-07-17,2016/7/17 22:23,2016/7/18 6:00,0.76,7:37:00,,Drank coffee:Worked out,,0,457,"['Drank coffee', 'Worked out']"
+399,2016-07-18,2016/7/18 22:57,2016/7/19 6:05,0.77,7:08:00,,Drank coffee:Stressful day:Worked out,,0,428,"['Drank coffee', 'Stressful day', 'Worked out']"
+400,2016-07-19,2016/7/19 22:36,2016/7/20 5:50,0.77,7:14:00,,Drank coffee:Worked out,,0,434,"['Drank coffee', 'Worked out']"
+401,2016-07-20,2016/7/20 22:25,2016/7/21 5:56,0.82,7:30:00,,Drank coffee:Worked out,,0,450,"['Drank coffee', 'Worked out']"
+402,2016-07-21,2016/7/21 23:07,2016/7/22 7:00,0.87,7:52:00,,Drank coffee:Worked out,,0,472,"['Drank coffee', 'Worked out']"
+403,2016-07-22,2016/7/22 22:20,2016/7/23 7:56,0.99,9:35:00,,Drank coffee,,0,575,['Drank coffee']
+404,2016-07-23,2016/7/23 23:47,2016/7/24 7:56,0.74,8:09:00,,Drank coffee,,0,489,['Drank coffee']
+405,2016-07-24,2016/7/24 22:45,2016/7/25 6:14,0.81,7:28:00,,Drank coffee:Worked out,,0,448,"['Drank coffee', 'Worked out']"
+406,2016-07-25,2016/7/25 21:54,2016/7/26 6:02,0.86,8:07:00,,Drank coffee:Worked out,,0,487,"['Drank coffee', 'Worked out']"
+407,2016-07-26,2016/7/26 23:03,2016/7/27 6:11,0.84,7:07:00,,Drank coffee:Worked out,,0,427,"['Drank coffee', 'Worked out']"
+408,2016-07-27,2016/7/27 22:49,2016/7/28 7:11,0.95,8:21:00,,Drank coffee:Stressful day:Worked out,,0,501,"['Drank coffee', 'Stressful day', 'Worked out']"
+409,2016-07-28,2016/7/28 22:25,2016/7/29 3:35,0.35,5:10:00,,Drank coffee,,0,310,['Drank coffee']
+410,2016-08-16,2016/8/16 22:05,2016/8/17 5:50,0.96,7:44:00,,Drank coffee:Drank tea:Stressful day,,0,464,"['Drank coffee', 'Drank tea', 'Stressful day']"
+411,2016-08-17,2016/8/17 22:42,2016/8/18 6:15,0.78,7:33:00,,Ate late:Drank coffee:Worked out,,7200,453,"['Ate late', 'Drank coffee', 'Worked out']"
+412,2016-08-18,2016/8/18 21:58,2016/8/19 6:23,0.36,8:24:00,,Drank coffee:Worked out,,3444,504,"['Drank coffee', 'Worked out']"
+413,2016-08-20,2016/8/20 22:04,2016/8/21 8:33,0.56,10:28:00,,Drank coffee,,7901,628,['Drank coffee']
+414,2016-08-21,2016/8/21 22:08,2016/8/22 6:20,0.52,8:11:00,,Drank coffee:Drank tea,,3786,491,"['Drank coffee', 'Drank tea']"
+415,2016-08-22,2016/8/22 22:13,2016/8/23 6:22,0.35,8:09:00,,Drank coffee:Worked out,,2668,489,"['Drank coffee', 'Worked out']"
+416,2016-08-23,2016/8/23 23:08,2016/8/24 6:38,0.51,7:30:00,,Drank coffee:Worked out,,4213,450,"['Drank coffee', 'Worked out']"
+417,2016-08-24,2016/8/24 21:51,2016/8/25 6:10,0.54,8:19:00,,Drank coffee:Worked out,,2210,499,"['Drank coffee', 'Worked out']"
+418,2016-08-25,2016/8/25 22:06,2016/8/26 6:19,0.55,8:13:00,,Drank coffee:Worked out,,3040,493,"['Drank coffee', 'Worked out']"
+419,2016-08-26,2016/8/26 23:49,2016/8/27 7:26,0.46,7:37:00,,Drank coffee:Worked out,,3887,457,"['Drank coffee', 'Worked out']"
+420,2016-08-27,2016/8/27 23:52,2016/8/28 8:25,0.48,8:33:00,,Drank coffee,,5631,513,['Drank coffee']
+421,2016-08-28,2016/8/28 22:52,2016/8/29 6:40,0.36,7:48:00,,Drank coffee,,10059,468,['Drank coffee']
+422,2016-08-29,2016/8/29 22:10,2016/8/30 6:20,0.4,8:09:00,,Drank coffee:Worked out,,3698,489,"['Drank coffee', 'Worked out']"
+423,2016-08-30,2016/8/30 22:21,2016/8/31 6:20,0.49,7:59:00,,Drank coffee:Worked out,,4399,479,"['Drank coffee', 'Worked out']"
+424,2016-08-31,2016/8/31 22:33,2016/9/1 6:20,0.49,7:47:00,,Drank coffee:Worked out,,4015,467,"['Drank coffee', 'Worked out']"
+425,2016-09-01,2016/9/1 23:08,2016/9/2 5:58,0.54,6:50:00,,Drank coffee:Worked out,,4374,410,"['Drank coffee', 'Worked out']"
+426,2016-09-02,2016/9/2 22:38,2016/9/3 7:47,0.67,9:09:00,,Drank coffee,,5038,549,['Drank coffee']
+427,2016-09-04,2016/9/4 23:28,2016/9/5 8:00,0.61,8:32:00,,Drank coffee,,827,512,['Drank coffee']
+428,2016-09-05,2016/9/5 21:00,2016/9/6 6:20,0.41,9:20:00,,Drank tea:Worked out,,2542,560,"['Drank tea', 'Worked out']"
+429,2016-09-06,2016/9/6 22:11,2016/9/7 6:22,0.7,8:10:00,,Drank tea:Worked out,,7370,490,"['Drank tea', 'Worked out']"
+430,2016-09-07,2016/9/7 22:31,2016/9/8 6:21,0.69,7:50:00,,Drank tea:Worked out,,5658,470,"['Drank tea', 'Worked out']"
+431,2016-09-08,2016/9/8 22:28,2016/9/9 6:10,0.61,7:41:00,,Drank tea:Worked out,,7107,461,"['Drank tea', 'Worked out']"
+432,2016-09-10,2016/9/10 0:45,2016/9/10 7:06,0.58,6:21:00,,Drank coffee:Worked out,,7048,381,"['Drank coffee', 'Worked out']"
+433,2016-09-10,2016/9/10 22:44,2016/9/11 6:01,0.33,7:17:00,,Drank tea,,6925,437,['Drank tea']
+434,2016-09-11,2016/9/11 23:05,2016/9/12 6:20,0.6,7:14:00,,Drank coffee,,1130,434,['Drank coffee']
+435,2016-09-12,2016/9/12 22:46,2016/9/13 6:20,0.67,7:34:00,,Drank tea:Worked out,,7025,454,"['Drank tea', 'Worked out']"
+436,2016-09-13,2016/9/13 21:55,2016/9/14 6:07,0.59,8:12:00,,Drank tea:Worked out,,5955,492,"['Drank tea', 'Worked out']"
+437,2016-09-14,2016/9/14 22:26,2016/9/15 6:20,0.65,7:53:00,,Drank tea:Worked out,,9243,473,"['Drank tea', 'Worked out']"
+438,2016-09-17,2016/9/17 22:26,2016/9/18 8:22,0.7,9:56:00,,Drank coffee,,908,596,['Drank coffee']
+439,2016-09-18,2016/9/18 22:28,2016/9/19 6:24,0.57,7:55:00,,Drank coffee:Worked out,,2191,475,"['Drank coffee', 'Worked out']"
+440,2016-09-19,2016/9/19 22:14,2016/9/20 6:22,0.6,8:07:00,,Drank tea:Worked out,,11650,487,"['Drank tea', 'Worked out']"
+441,2016-09-20,2016/9/20 22:39,2016/9/21 6:15,0.57,7:36:00,,Drank tea:Worked out,,10842,456,"['Drank tea', 'Worked out']"
+442,2016-09-21,2016/9/21 22:11,2016/9/22 6:11,0.6,7:59:00,,Drank tea,,5765,479,['Drank tea']
+443,2016-09-22,2016/9/22 22:26,2016/9/23 6:55,0.7,8:29:00,,Drank tea:Worked out,,8047,509,"['Drank tea', 'Worked out']"
+444,2016-09-25,2016/9/25 22:53,2016/9/26 6:24,0.58,7:31:00,,Drank coffee:Drank tea:Worked out,,359,451,"['Drank coffee', 'Drank tea', 'Worked out']"
+445,2016-09-26,2016/9/26 22:17,2016/9/27 6:20,0.55,8:03:00,,Drank tea:Stressful day:Worked out,,8733,483,"['Drank tea', 'Stressful day', 'Worked out']"
+446,2016-09-27,2016/9/27 22:22,2016/9/28 6:06,0.55,7:44:00,,Drank tea:Worked out,,6963,464,"['Drank tea', 'Worked out']"
+447,2016-09-28,2016/9/28 23:10,2016/9/29 6:20,0.6,7:09:00,,Drank coffee:Drank tea:Worked out,,10392,429,"['Drank coffee', 'Drank tea', 'Worked out']"
+448,2016-09-29,2016/9/29 22:50,2016/9/30 6:20,0.53,7:29:00,,Drank coffee:Worked out,,7230,449,"['Drank coffee', 'Worked out']"
+449,2016-10-01,2016/10/1 0:06,2016/10/1 8:27,0.67,8:20:00,,Drank coffee:Drank tea:Worked out,,7255,500,"['Drank coffee', 'Drank tea', 'Worked out']"
+450,2016-10-01,2016/10/1 23:23,2016/10/2 7:50,0.55,8:26:00,,Drank coffee,,4555,506,['Drank coffee']
+451,2016-10-02,2016/10/2 23:29,2016/10/3 6:25,0.54,6:56:00,,Drank coffee:Drank tea,,8954,416,"['Drank coffee', 'Drank tea']"
+452,2016-10-03,2016/10/3 22:24,2016/10/4 6:03,0.62,7:38:00,,Drank coffee:Drank tea:Worked out,,9726,458,"['Drank coffee', 'Drank tea', 'Worked out']"
+453,2016-10-04,2016/10/4 21:53,2016/10/5 6:21,0.66,8:28:00,,Drank tea:Worked out,,8587,508,"['Drank tea', 'Worked out']"
+454,2016-10-05,2016/10/5 22:33,2016/10/6 6:21,0.54,7:48:00,,Drank tea:Worked out,,8612,468,"['Drank tea', 'Worked out']"
+455,2016-10-07,2016/10/7 0:07,2016/10/7 6:40,0.52,6:33:00,,Drank tea:Worked out,,8737,393,"['Drank tea', 'Worked out']"
+456,2016-10-07,2016/10/7 23:18,2016/10/8 7:20,0.71,8:02:00,,Drank coffee:Drank tea:Worked out,,10375,482,"['Drank coffee', 'Drank tea', 'Worked out']"
+457,2016-10-10,2016/10/10 22:38,2016/10/11 6:28,0.59,7:49:00,,Drank coffee:Drank tea:Worked out,,21870,469,"['Drank coffee', 'Drank tea', 'Worked out']"
+458,2016-10-11,2016/10/11 22:28,2016/10/12 6:14,0.56,7:45:00,,Drank tea:Worked out,,10106,465,"['Drank tea', 'Worked out']"
+459,2016-10-12,2016/10/12 22:48,2016/10/13 6:05,0.65,7:16:00,,Drank coffee:Worked out,,9308,436,"['Drank coffee', 'Worked out']"
+460,2016-10-13,2016/10/13 22:26,2016/10/14 6:30,0.61,8:04:00,,Drank coffee:Worked out,,8406,484,"['Drank coffee', 'Worked out']"
+461,2016-10-15,2016/10/15 23:00,2016/10/16 7:31,0.71,8:30:00,,Drank coffee,,779,510,['Drank coffee']
+462,2016-10-16,2016/10/16 22:52,2016/10/17 6:20,0.5,7:27:00,,Drank coffee:Drank tea,,3932,447,"['Drank coffee', 'Drank tea']"
+463,2016-10-17,2016/10/17 22:53,2016/10/18 6:27,0.63,7:34:00,,Drank coffee:Drank tea:Worked out,,10266,454,"['Drank coffee', 'Drank tea', 'Worked out']"
+464,2016-10-18,2016/10/18 22:34,2016/10/19 6:10,0.67,7:35:00,,Drank coffee:Stressful day:Worked out,,10540,455,"['Drank coffee', 'Stressful day', 'Worked out']"
+465,2016-10-19,2016/10/19 22:13,2016/10/20 5:49,0.64,7:35:00,,Drank coffee:Worked out,,8164,455,"['Drank coffee', 'Worked out']"
+466,2016-10-20,2016/10/20 22:14,2016/10/21 6:33,0.67,8:19:00,,Drank coffee:Drank tea:Worked out,,7271,499,"['Drank coffee', 'Drank tea', 'Worked out']"
+467,2016-10-22,2016/10/22 1:38,2016/10/22 7:18,0.54,5:39:00,,Drank coffee:Drank tea,,6044,339,"['Drank coffee', 'Drank tea']"
+468,2016-10-23,2016/10/23 0:07,2016/10/23 8:47,0.81,8:40:00,,Drank coffee,,7682,520,['Drank coffee']
+469,2016-10-23,2016/10/23 22:21,2016/10/24 6:23,0.66,8:01:00,,Drank coffee:Drank tea,,6719,481,"['Drank coffee', 'Drank tea']"
+470,2016-10-24,2016/10/24 23:04,2016/10/25 6:25,0.65,7:21:00,,Drank coffee:Drank tea:Worked out,,8273,441,"['Drank coffee', 'Drank tea', 'Worked out']"
+471,2016-10-25,2016/10/25 22:48,2016/10/26 6:35,0.69,7:46:00,,Drank tea:Worked out,,6366,466,"['Drank tea', 'Worked out']"
+472,2016-10-26,2016/10/26 22:55,2016/10/27 6:26,0.72,7:30:00,,Drank coffee:Drank tea:Worked out,,9368,450,"['Drank coffee', 'Drank tea', 'Worked out']"
+473,2016-10-27,2016/10/27 23:03,2016/10/28 6:35,0.63,7:32:00,,Drank coffee:Drank tea:Worked out,,7967,452,"['Drank coffee', 'Drank tea', 'Worked out']"
+474,2016-10-29,2016/10/29 0:16,2016/10/29 7:51,0.66,7:34:00,,Drank coffee:Drank tea,,8641,454,"['Drank coffee', 'Drank tea']"
+475,2016-10-30,2016/10/30 22:46,2016/10/31 6:10,0.68,7:23:00,,Drank coffee:Worked out,,1283,443,"['Drank coffee', 'Worked out']"
+476,2016-11-01,2016/11/1 22:19,2016/11/2 5:57,0.68,7:37:00,,Drank tea:Stressful day:Worked out,,4542,457,"['Drank tea', 'Stressful day', 'Worked out']"
+477,2016-11-02,2016/11/2 22:52,2016/11/3 6:30,0.72,7:38:00,,Drank coffee:Drank tea:Stressful day,,2870,458,"['Drank coffee', 'Drank tea', 'Stressful day']"
+478,2016-11-04,2016/11/4 0:13,2016/11/4 6:15,0.52,6:01:00,,Drank coffee:Drank tea:Stressful day,,10506,361,"['Drank coffee', 'Drank tea', 'Stressful day']"
+479,2016-11-04,2016/11/4 22:49,2016/11/5 7:58,0.8,9:08:00,,Drank coffee:Stressful day,,6716,548,"['Drank coffee', 'Stressful day']"
+480,2016-11-06,2016/11/6 21:58,2016/11/7 5:47,0.65,7:49:00,,Drank coffee,,6623,469,['Drank coffee']
+481,2016-11-07,2016/11/7 22:16,2016/11/8 5:51,0.7,7:35:00,,Drank tea:Worked out,,6608,455,"['Drank tea', 'Worked out']"
+482,2016-11-08,2016/11/8 22:51,2016/11/9 5:48,0.62,6:56:00,,Drank coffee:Drank tea:Worked out,,7119,416,"['Drank coffee', 'Drank tea', 'Worked out']"
+483,2016-11-09,2016/11/9 22:37,2016/11/10 5:55,0.65,7:17:00,,Drank coffee:Drank tea:Worked out,,8981,437,"['Drank coffee', 'Drank tea', 'Worked out']"
+484,2016-11-10,2016/11/10 23:58,2016/11/11 7:19,0.56,7:20:00,,Drank coffee:Drank tea:Worked out,,7385,440,"['Drank coffee', 'Drank tea', 'Worked out']"
+485,2016-11-11,2016/11/11 23:25,2016/11/12 7:16,0.74,7:51:00,,Drank coffee:Drank tea,,737,471,"['Drank coffee', 'Drank tea']"
+486,2016-11-15,2016/11/15 22:14,2016/11/16 7:35,0.72,9:20:00,,Drank tea,,5274,560,['Drank tea']
+487,2016-11-16,2016/11/16 23:10,2016/11/17 7:07,0.7,7:56:00,,Drank coffee,,2670,476,['Drank coffee']
+488,2016-11-17,2016/11/17 23:15,2016/11/18 6:59,0.73,7:44:00,,Drank tea,,5825,464,['Drank tea']
+489,2016-11-18,2016/11/18 23:37,2016/11/19 7:13,0.7,7:36:00,,Drank coffee:Drank tea,,5971,456,"['Drank coffee', 'Drank tea']"
+490,2016-11-19,2016/11/19 23:47,2016/11/20 7:53,0.81,8:05:00,,Drank tea,,1540,485,['Drank tea']
+491,2016-11-20,2016/11/20 23:00,2016/11/21 7:02,0.8,8:01:00,,Drank coffee:Drank tea,,847,481,"['Drank coffee', 'Drank tea']"
+492,2016-11-21,2016/11/21 22:38,2016/11/22 5:40,0.68,7:01:00,,Drank coffee:Drank tea,,6149,421,"['Drank coffee', 'Drank tea']"
+493,2016-11-22,2016/11/22 21:26,2016/11/23 5:40,0.8,8:13:00,,Drank tea:Worked out,,10585,493,"['Drank tea', 'Worked out']"
+494,2016-11-23,2016/11/23 22:44,2016/11/24 6:10,0.73,7:25:00,,Drank coffee:Drank tea:Worked out,,10248,445,"['Drank coffee', 'Drank tea', 'Worked out']"
+495,2016-11-24,2016/11/24 22:00,2016/11/25 6:39,0.88,8:39:00,,Drank tea:Worked out,,6536,519,"['Drank tea', 'Worked out']"
+496,2016-11-25,2016/11/25 23:09,2016/11/26 7:40,0.89,8:30:00,,Drank coffee:Drank tea,,5628,510,"['Drank coffee', 'Drank tea']"
+497,2016-11-27,2016/11/27 22:01,2016/11/28 6:18,0.75,8:16:00,,Drank tea,,595,496,['Drank tea']
+498,2016-11-28,2016/11/28 22:35,2016/11/29 6:26,0.83,7:50:00,,Drank tea:Worked out,,7499,470,"['Drank tea', 'Worked out']"
+499,2016-11-29,2016/11/29 23:33,2016/11/30 6:31,0.71,6:57:00,,Drank tea,,3196,417,['Drank tea']
+500,2016-11-30,2016/11/30 21:12,2016/12/1 5:13,0.89,8:01:00,,Drank coffee:Drank tea,,3763,481,"['Drank coffee', 'Drank tea']"
+501,2016-12-01,2016/12/1 5:14,2016/12/1 6:38,0.17,1:24:00,,,,3763,84,['nan']
+502,2016-12-01,2016/12/1 21:40,2016/12/2 5:11,0.71,7:31:00,,Drank tea,,4904,451,['Drank tea']
+503,2016-12-04,2016/12/4 1:18,2016/12/4 9:20,0.89,8:02:00,,Drank coffee:Drank tea,,3158,482,"['Drank coffee', 'Drank tea']"
+504,2016-12-04,2016/12/4 21:45,2016/12/5 5:45,0.78,8:00:00,,Drank tea,,4514,480,['Drank tea']
+505,2016-12-05,2016/12/5 21:44,2016/12/6 5:40,0.79,7:55:00,,Drank tea:Worked out,,7137,475,"['Drank tea', 'Worked out']"
+506,2016-12-06,2016/12/6 22:13,2016/12/7 5:46,0.72,7:32:00,,Drank tea:Worked out,,7709,452,"['Drank tea', 'Worked out']"
+507,2016-12-07,2016/12/7 22:46,2016/12/8 6:19,0.82,7:32:00,,Drank coffee:Drank tea:Worked out,,10521,452,"['Drank coffee', 'Drank tea', 'Worked out']"
+508,2016-12-08,2016/12/8 23:32,2016/12/9 6:47,0.69,7:15:00,,Drank coffee:Drank tea:Worked out,,9338,435,"['Drank coffee', 'Drank tea', 'Worked out']"
+509,2016-12-09,2016/12/9 22:48,2016/12/10 8:11,0.79,9:23:00,,Drank tea,,4629,563,['Drank tea']
+510,2016-12-11,2016/12/11 1:07,2016/12/11 8:27,0.82,7:19:00,,Drank coffee:Worked out,,5776,439,"['Drank coffee', 'Worked out']"
+511,2016-12-11,2016/12/11 22:14,2016/12/12 6:16,0.85,8:01:00,,Drank tea,,168,481,['Drank tea']
+512,2016-12-12,2016/12/12 22:56,2016/12/13 6:35,0.81,7:38:00,,Drank coffee:Drank tea,,6964,458,"['Drank coffee', 'Drank tea']"
+513,2016-12-13,2016/12/13 22:02,2016/12/14 6:05,0.83,8:02:00,,Drank coffee:Drank tea:Worked out,,3448,482,"['Drank coffee', 'Drank tea', 'Worked out']"
+514,2016-12-14,2016/12/14 21:57,2016/12/15 6:18,0.74,8:20:00,,Drank tea,,4114,500,['Drank tea']
+515,2016-12-15,2016/12/15 21:29,2016/12/16 5:00,0.75,7:31:00,,Drank tea,,7112,451,['Drank tea']
+516,2016-12-18,2016/12/18 22:35,2016/12/19 5:47,0.78,7:11:00,,Drank coffee:Drank tea,,3391,431,"['Drank coffee', 'Drank tea']"
+517,2016-12-19,2016/12/19 21:49,2016/12/20 6:35,0.96,8:46:00,,Drank tea,,2335,526,['Drank tea']
+518,2016-12-20,2016/12/20 23:48,2016/12/21 7:09,0.84,7:20:00,,Drank tea,,7293,440,['Drank tea']
+519,2016-12-21,2016/12/21 23:56,2016/12/22 7:30,0.86,7:33:00,,Drank coffee:Drank tea,,8488,453,"['Drank coffee', 'Drank tea']"
+520,2016-12-22,2016/12/22 23:07,2016/12/23 7:07,0.74,8:00:00,,Drank coffee:Drank tea:Stressful day,,5701,480,"['Drank coffee', 'Drank tea', 'Stressful day']"
+521,2016-12-27,2016/12/27 23:17,2016/12/28 7:22,0.69,8:05:00,,Drank coffee:Drank tea,,4509,485,"['Drank coffee', 'Drank tea']"
+522,2016-12-30,2016/12/30 23:25,2016/12/31 8:26,0.92,9:00:00,,Drank coffee:Drank tea,,3868,540,"['Drank coffee', 'Drank tea']"
+523,2017-01-02,2017/1/2 22:35,2017/1/3 5:10,0.73,6:34:00,,Drank coffee:Drank tea,,5216,394,"['Drank coffee', 'Drank tea']"
+524,2017-01-03,2017/1/3 5:11,2017/1/3 6:30,0.17,1:19:00,,,,5216,79,['nan']
+525,2017-01-03,2017/1/3 21:47,2017/1/4 5:57,0.87,8:09:00,,Drank tea,,3669,489,['Drank tea']
+526,2017-01-04,2017/1/4 22:40,2017/1/5 6:10,0.87,7:29:00,,Drank coffee:Drank tea:Worked out,,10856,449,"['Drank coffee', 'Drank tea', 'Worked out']"
+527,2017-01-05,2017/1/5 22:39,2017/1/6 6:42,0.93,8:02:00,,Drank tea:Worked out,,7787,482,"['Drank tea', 'Worked out']"
+528,2017-01-06,2017/1/6 23:14,2017/1/7 8:43,0.9,9:29:00,,Drank coffee:Drank tea,,10344,569,"['Drank coffee', 'Drank tea']"
+529,2017-01-08,2017/1/8 0:34,2017/1/8 7:56,0.79,7:22:00,,Drank tea,,3094,442,['Drank tea']
+530,2017-01-08,2017/1/8 22:07,2017/1/9 6:23,0.84,8:16:00,,Drank tea,,202,496,['Drank tea']
+531,2017-01-09,2017/1/9 22:42,2017/1/10 6:40,0.65,7:57:00,,Drank coffee:Drank tea,,7122,477,"['Drank coffee', 'Drank tea']"
+532,2017-01-10,2017/1/10 22:20,2017/1/11 6:14,0.84,7:54:00,,Drank coffee:Drank tea,,1734,474,"['Drank coffee', 'Drank tea']"
+533,2017-01-11,2017/1/11 22:14,2017/1/12 5:22,0.73,7:07:00,,Drank coffee:Drank tea,,2562,427,"['Drank coffee', 'Drank tea']"
+534,2017-01-12,2017/1/12 22:13,2017/1/13 5:31,0.64,7:17:00,,Ate late:Drank coffee:Drank tea,,8076,437,"['Ate late', 'Drank coffee', 'Drank tea']"
+535,2017-01-13,2017/1/13 23:27,2017/1/14 7:22,0.89,7:54:00,,Drank tea:Worked out,,12802,474,"['Drank tea', 'Worked out']"
+536,2017-01-15,2017/1/15 23:25,2017/1/16 6:58,0.74,7:32:00,,Drank coffee:Drank tea:Worked out,,12258,452,"['Drank coffee', 'Drank tea', 'Worked out']"
+537,2017-01-16,2017/1/16 21:58,2017/1/17 5:11,0.71,7:12:00,,Drank tea,,4540,432,['Drank tea']
+538,2017-01-17,2017/1/17 5:12,2017/1/17 7:20,0.24,2:08:00,,,,4540,128,['nan']
+539,2017-01-17,2017/1/17 22:23,2017/1/18 5:01,0.57,6:37:00,,Drank tea,,173,397,['Drank tea']
+540,2017-01-18,2017/1/18 22:22,2017/1/19 6:31,0.76,8:09:00,,Drank tea,,6368,489,['Drank tea']
+541,2017-01-19,2017/1/19 22:14,2017/1/20 6:30,0.92,8:15:00,,Drank coffee:Drank tea,,1740,495,"['Drank coffee', 'Drank tea']"
+542,2017-01-20,2017/1/20 23:07,2017/1/21 7:45,0.78,8:38:00,,Drank tea,,5056,518,['Drank tea']
+543,2017-01-21,2017/1/21 23:12,2017/1/22 7:42,0.96,8:29:00,,Drank tea,,4223,509,['Drank tea']
+544,2017-01-22,2017/1/22 22:03,2017/1/23 6:25,0.64,8:22:00,,Drank tea,,4336,502,['Drank tea']
+545,2017-01-23,2017/1/23 22:34,2017/1/24 6:09,0.89,7:35:00,,Drank coffee:Drank tea,,4772,455,"['Drank coffee', 'Drank tea']"
+546,2017-01-24,2017/1/24 22:55,2017/1/25 6:13,0.84,7:17:00,,Drank coffee:Drank tea,,3492,437,"['Drank coffee', 'Drank tea']"
+547,2017-01-25,2017/1/25 20:54,2017/1/26 5:09,0.85,8:15:00,,Drank tea:Worked out,,6010,495,"['Drank tea', 'Worked out']"
+548,2017-01-26,2017/1/26 22:12,2017/1/27 4:58,0.54,6:45:00,,Drank coffee:Drank tea:Worked out,,4200,405,"['Drank coffee', 'Drank tea', 'Worked out']"
+549,2017-01-27,2017/1/27 4:58,2017/1/27 6:40,0.21,1:42:00,,,,4200,102,['nan']
+550,2017-01-27,2017/1/27 23:22,2017/1/28 7:25,0.91,8:02:00,,Drank coffee:Drank tea,,4573,482,"['Drank coffee', 'Drank tea']"
+551,2017-01-30,2017/1/30 23:27,2017/1/31 6:01,0.63,6:34:00,,Drank coffee,,3228,394,['Drank coffee']
+552,2017-01-31,2017/1/31 22:44,2017/2/1 6:20,0.78,7:36:00,,Drank coffee:Drank tea:Worked out,,5379,456,"['Drank coffee', 'Drank tea', 'Worked out']"
+553,2017-02-01,2017/2/1 22:41,2017/2/2 6:10,0.74,7:29:00,,Drank coffee:Drank tea:Worked out,,7521,449,"['Drank coffee', 'Drank tea', 'Worked out']"
+554,2017-02-02,2017/2/2 22:19,2017/2/3 6:31,0.85,8:11:00,,Drank coffee:Drank tea,,2309,491,"['Drank coffee', 'Drank tea']"
+555,2017-02-03,2017/2/3 23:58,2017/2/4 7:08,0.8,7:09:00,,Drank coffee:Drank tea,,2983,429,"['Drank coffee', 'Drank tea']"
+556,2017-02-04,2017/2/4 23:45,2017/2/5 7:20,0.68,7:35:00,,Drank coffee:Drank tea,,6833,455,"['Drank coffee', 'Drank tea']"
+557,2017-02-05,2017/2/5 22:53,2017/2/6 6:30,0.75,7:36:00,,Drank coffee:Drank tea,,7665,456,"['Drank coffee', 'Drank tea']"
+558,2017-02-06,2017/2/6 22:30,2017/2/7 6:20,0.71,7:50:00,,Ate late:Drank coffee:Drank tea:Worked out,,7552,470,"['Ate late', 'Drank coffee', 'Drank tea', 'Worked out']"
+559,2017-02-07,2017/2/7 23:34,2017/2/8 6:30,0.71,6:55:00,,Drank coffee:Drank tea,,5339,415,"['Drank coffee', 'Drank tea']"
+560,2017-02-08,2017/2/8 23:46,2017/2/9 6:27,0.68,6:40:00,,Drank coffee:Drank tea,,4076,400,"['Drank coffee', 'Drank tea']"
+561,2017-02-09,2017/2/9 22:31,2017/2/10 5:00,0.62,6:28:00,,Drank coffee:Drank tea:Stressful day:Worked out,,12892,388,"['Drank coffee', 'Drank tea', 'Stressful day', 'Worked out']"
+562,2017-02-10,2017/2/10 5:00,2017/2/10 6:36,0.21,1:36:00,,,,12892,96,['nan']
+563,2017-02-10,2017/2/10 22:37,2017/2/11 7:07,1,8:30:00,,Drank tea,,3417,510,['Drank tea']
+564,2017-02-12,2017/2/12 21:49,2017/2/13 7:06,0.63,9:16:00,,Drank coffee:Drank tea,,2756,556,"['Drank coffee', 'Drank tea']"
+565,2017-02-13,2017/2/13 21:51,2017/2/14 5:02,0.74,7:10:00,,Drank coffee:Drank tea,,6003,430,"['Drank coffee', 'Drank tea']"
+566,2017-02-14,2017/2/14 5:02,2017/2/14 6:36,0.12,1:33:00,,,,6003,93,['nan']
+567,2017-02-14,2017/2/14 23:17,2017/2/15 6:13,0.59,6:55:00,,Drank coffee:Drank tea,,3588,415,"['Drank coffee', 'Drank tea']"
+568,2017-02-15,2017/2/15 22:36,2017/2/16 6:25,0.44,7:48:00,,Drank coffee:Drank tea,,5558,468,"['Drank coffee', 'Drank tea']"
+569,2017-02-16,2017/2/16 22:33,2017/2/17 6:31,0.83,7:58:00,,Drank coffee:Drank tea,,3301,478,"['Drank coffee', 'Drank tea']"
+570,2017-02-17,2017/2/17 23:49,2017/2/18 8:09,0.93,8:20:00,,Drank coffee:Drank tea,,3027,500,"['Drank coffee', 'Drank tea']"
+571,2017-02-19,2017/2/19 0:28,2017/2/19 8:16,0.79,7:48:00,,Drank tea,,3361,468,['Drank tea']
+572,2017-02-19,2017/2/19 22:12,2017/2/20 6:16,0.66,8:04:00,,Drank coffee:Drank tea,,460,484,"['Drank coffee', 'Drank tea']"
+573,2017-02-20,2017/2/20 22:43,2017/2/21 6:27,0.76,7:43:00,,Drank tea,,7419,463,['Drank tea']
+574,2017-02-21,2017/2/21 23:14,2017/2/22 6:26,0.72,7:11:00,,Drank coffee:Drank tea,,5499,431,"['Drank coffee', 'Drank tea']"
+575,2017-02-22,2017/2/22 21:30,2017/2/23 5:02,0.83,7:31:00,,Drank tea,,4258,451,['Drank tea']
+576,2017-02-23,2017/2/23 22:15,2017/2/24 5:34,0.81,7:19:00,,Drank coffee:Drank tea,,5862,439,"['Drank coffee', 'Drank tea']"
+578,2017-02-25,2017/2/25 2:46,2017/2/25 9:52,0.8,7:06:00,,Ate late:Drank coffee:Drank tea:Worked out,,6388,426,"['Ate late', 'Drank coffee', 'Drank tea', 'Worked out']"
+579,2017-02-26,2017/2/26 0:40,2017/2/26 7:47,0.77,7:07:00,,Drank tea,,4275,427,['Drank tea']
+580,2017-02-27,2017/2/27 22:16,2017/2/28 5:50,0.81,7:34:00,,Drank coffee,,2499,454,['Drank coffee']
+581,2017-02-28,2017/2/28 21:39,2017/3/1 5:40,0.87,8:01:00,,Drank coffee:Drank tea:Worked out,,7351,481,"['Drank coffee', 'Drank tea', 'Worked out']"
+583,2017-03-01,2017/3/1 22:23,2017/3/2 6:30,0.85,8:07:00,,Drank coffee:Drank tea,,6109,487,"['Drank coffee', 'Drank tea']"
+584,2017-03-02,2017/3/2 22:22,2017/3/3 6:18,0.81,7:55:00,,Drank coffee:Drank tea:Worked out,,6388,475,"['Drank coffee', 'Drank tea', 'Worked out']"
+585,2017-03-05,2017/3/5 0:12,2017/3/5 8:28,0.96,8:16:00,,Drank coffee:Drank tea,,6785,496,"['Drank coffee', 'Drank tea']"
+586,2017-03-05,2017/3/5 22:01,2017/3/6 6:08,0.93,8:07:00,,Drank coffee:Drank tea,,171,487,"['Drank coffee', 'Drank tea']"
+587,2017-03-06,2017/3/6 22:01,2017/3/7 6:22,0.97,8:21:00,,Drank coffee:Drank tea,,4670,501,"['Drank coffee', 'Drank tea']"
+588,2017-03-07,2017/3/7 22:13,2017/3/8 6:15,0.9,8:01:00,,Drank coffee:Drank tea:Worked out,,7000,481,"['Drank coffee', 'Drank tea', 'Worked out']"
+589,2017-03-08,2017/3/8 21:13,2017/3/9 6:18,0.85,9:05:00,,Drank coffee:Drank tea,,3744,545,"['Drank coffee', 'Drank tea']"
+590,2017-03-09,2017/3/9 21:48,2017/3/10 5:01,0.71,7:13:00,,Drank coffee:Drank tea:Worked out,,7028,433,"['Drank coffee', 'Drank tea', 'Worked out']"
+591,2017-03-10,2017/3/10 22:42,2017/3/11 6:57,0.86,8:14:00,,Drank coffee:Drank tea,,2679,494,"['Drank coffee', 'Drank tea']"
+592,2017-03-12,2017/3/12 22:39,2017/3/13 6:33,0.8,7:53:00,,Drank coffee:Drank tea,,1572,473,"['Drank coffee', 'Drank tea']"
+593,2017-03-13,2017/3/13 21:20,2017/3/14 5:02,0.81,7:42:00,,Drank tea:Worked out,,6212,462,"['Drank tea', 'Worked out']"
+594,2017-03-14,2017/3/14 21:06,2017/3/15 5:23,0.89,8:17:00,,Drank tea:Worked out,,5933,497,"['Drank tea', 'Worked out']"
+595,2017-03-15,2017/3/15 22:33,2017/3/16 6:17,0.71,7:44:00,,Drank coffee:Drank tea:Worked out,,9185,464,"['Drank coffee', 'Drank tea', 'Worked out']"
+596,2017-03-16,2017/3/16 22:33,2017/3/17 6:37,0.95,8:04:00,,Drank coffee:Drank tea:Worked out,,7887,484,"['Drank coffee', 'Drank tea', 'Worked out']"
+597,2017-03-17,2017/3/17 22:55,2017/3/18 8:02,0.99,9:07:00,,Drank coffee:Drank tea,,10528,547,"['Drank coffee', 'Drank tea']"
+598,2017-03-18,2017/3/18 22:26,2017/3/19 7:21,0.89,8:54:00,,Drank tea,,302,534,['Drank tea']
+599,2017-03-20,2017/3/20 0:02,2017/3/20 7:20,0.79,7:18:00,,Drank coffee:Drank tea,,2750,438,"['Drank coffee', 'Drank tea']"
+600,2017-03-20,2017/3/20 23:35,2017/3/21 7:16,0.88,7:41:00,,Drank coffee:Drank tea,,3695,461,"['Drank coffee', 'Drank tea']"
+601,2017-03-21,2017/3/21 23:20,2017/3/22 6:21,0.79,7:01:00,,Drank coffee:Drank tea,,1913,421,"['Drank coffee', 'Drank tea']"
+602,2017-03-22,2017/3/22 22:02,2017/3/23 5:15,0.72,7:12:00,,Drank tea:Worked out,,7155,432,"['Drank tea', 'Worked out']"
+603,2017-03-23,2017/3/23 22:20,2017/3/24 5:41,0.76,7:21:00,,Drank coffee:Drank tea:Worked out,,7810,441,"['Drank coffee', 'Drank tea', 'Worked out']"
+604,2017-03-25,2017/3/25 23:19,2017/3/26 7:16,1,7:56:00,,Drank coffee:Drank tea,,3549,476,"['Drank coffee', 'Drank tea']"
+605,2017-03-26,2017/3/26 22:03,2017/3/27 5:33,0.83,7:29:00,,Drank coffee:Drank tea:Worked out,,3554,449,"['Drank coffee', 'Drank tea', 'Worked out']"
+606,2017-03-27,2017/3/27 21:19,2017/3/28 5:42,0.78,8:22:00,,Drank tea:Worked out,,7562,502,"['Drank tea', 'Worked out']"
+607,2017-03-28,2017/3/28 22:29,2017/3/29 5:41,0.78,7:11:00,,Drank coffee:Drank tea:Worked out,,7823,431,"['Drank coffee', 'Drank tea', 'Worked out']"
+608,2017-03-29,2017/3/29 22:29,2017/3/30 6:04,0.79,7:34:00,,Drank coffee:Drank tea:Worked out,,7708,454,"['Drank coffee', 'Drank tea', 'Worked out']"
+609,2017-03-30,2017/3/30 22:42,2017/3/31 7:33,0.93,8:51:00,,Drank coffee:Drank tea:Worked out,,8615,531,"['Drank coffee', 'Drank tea', 'Worked out']"
+610,2017-04-01,2017/4/1 2:10,2017/4/1 8:37,0.8,6:27:00,,Drank coffee:Drank tea,,9461,387,"['Drank coffee', 'Drank tea']"
+611,2017-04-01,2017/4/1 21:22,2017/4/2 7:16,0.95,9:54:00,,Drank tea,,4595,594,['Drank tea']
+612,2017-04-02,2017/4/2 22:01,2017/4/3 6:20,0.9,8:19:00,,Drank coffee:Drank tea:Worked out,,2835,499,"['Drank coffee', 'Drank tea', 'Worked out']"
+613,2017-04-03,2017/4/3 21:58,2017/4/4 6:01,0.92,8:03:00,,Drank tea,,1898,483,['Drank tea']
+614,2017-04-04,2017/4/4 22:01,2017/4/5 6:11,0.81,8:09:00,,Drank tea:Worked out,,8396,489,"['Drank tea', 'Worked out']"
+615,2017-04-05,2017/4/5 23:45,2017/4/6 6:20,0.73,6:35:00,,Drank coffee:Drank tea:Worked out,,7948,395,"['Drank coffee', 'Drank tea', 'Worked out']"
+616,2017-04-06,2017/4/6 23:12,2017/4/7 6:20,0.68,7:07:00,,Drank coffee:Drank tea:Worked out,,14408,427,"['Drank coffee', 'Drank tea', 'Worked out']"
+617,2017-04-08,2017/4/8 0:00,2017/4/8 7:30,0.75,7:29:00,,Drank coffee:Drank tea:Worked out,,8646,449,"['Drank coffee', 'Drank tea', 'Worked out']"
+618,2017-04-10,2017/4/10 0:52,2017/4/10 6:32,0.65,5:40:00,,Drank coffee,,771,340,['Drank coffee']
+619,2017-04-10,2017/4/10 22:21,2017/4/11 5:41,0.7,7:19:00,,Drank tea:Worked out,,11355,439,"['Drank tea', 'Worked out']"
+621,2017-04-11,2017/4/11 22:39,2017/4/12 5:55,0.67,7:16:00,,,,4153,436,['nan']
+622,2017-04-12,2017/4/12 21:42,2017/4/13 6:54,0.74,9:11:00,,Drank tea,,1318,551,['Drank tea']
+623,2017-04-13,2017/4/13 23:52,2017/4/14 8:05,0.83,8:12:00,,Drank coffee:Drank tea,,889,492,"['Drank coffee', 'Drank tea']"
+624,2017-04-14,2017/4/14 21:45,2017/4/15 7:52,0.88,10:07:00,,Drank tea,,4787,607,['Drank tea']
+625,2017-04-15,2017/4/15 23:23,2017/4/16 7:05,0.73,7:42:00,,Drank tea,,4581,462,['Drank tea']
+626,2017-04-17,2017/4/17 0:06,2017/4/17 7:51,0.83,7:44:00,,Drank coffee:Drank tea,,1510,464,"['Drank coffee', 'Drank tea']"
+627,2017-04-17,2017/4/17 22:12,2017/4/18 5:54,0.66,7:41:00,,Drank coffee:Drank tea,,780,461,"['Drank coffee', 'Drank tea']"
+628,2017-04-18,2017/4/18 22:43,2017/4/19 6:20,0.59,7:36:00,,Drank coffee:Drank tea:Worked out,,6284,456,"['Drank coffee', 'Drank tea', 'Worked out']"
+629,2017-04-19,2017/4/19 21:39,2017/4/20 5:30,0.75,7:51:00,,,,8213,471,['nan']
+630,2017-04-20,2017/4/20 22:15,2017/4/21 5:41,0.75,7:26:00,,Drank coffee:Drank tea:Worked out,,7905,446,"['Drank coffee', 'Drank tea', 'Worked out']"
+631,2017-04-21,2017/4/21 22:36,2017/4/22 7:46,0.83,9:09:00,,Drank coffee:Drank tea:Worked out,,8072,549,"['Drank coffee', 'Drank tea', 'Worked out']"
+632,2017-04-23,2017/4/23 0:53,2017/4/23 8:38,0.86,7:44:00,,Drank coffee:Drank tea,,2666,464,"['Drank coffee', 'Drank tea']"
+633,2017-04-23,2017/4/23 22:31,2017/4/24 6:31,0.75,7:59:00,,Drank coffee,,3042,479,['Drank coffee']
+634,2017-04-24,2017/4/24 23:07,2017/4/25 6:34,0.72,7:27:00,,Drank coffee:Drank tea:Worked out,,10319,447,"['Drank coffee', 'Drank tea', 'Worked out']"
+635,2017-04-25,2017/4/25 22:20,2017/4/26 6:20,0.85,8:00:00,,Drank coffee:Drank tea:Worked out,,8358,480,"['Drank coffee', 'Drank tea', 'Worked out']"
+636,2017-04-26,2017/4/26 22:25,2017/4/27 6:32,0.68,8:06:00,,Drank coffee:Drank tea:Worked out,,7337,486,"['Drank coffee', 'Drank tea', 'Worked out']"
+637,2017-04-27,2017/4/27 22:48,2017/4/28 6:40,0.64,7:51:00,,Drank coffee:Drank tea:Worked out,,6551,471,"['Drank coffee', 'Drank tea', 'Worked out']"
+638,2017-04-28,2017/4/28 23:39,2017/4/29 8:17,0.9,8:37:00,,Drank coffee:Drank tea:Stressful day,,3357,517,"['Drank coffee', 'Drank tea', 'Stressful day']"
+639,2017-04-29,2017/4/29 23:39,2017/4/30 7:23,0.74,7:43:00,,Drank coffee:Drank tea,,2668,463,"['Drank coffee', 'Drank tea']"
+640,2017-04-30,2017/4/30 22:28,2017/5/1 6:16,0.72,7:47:00,,Drank coffee:Drank tea:Worked out,,7491,467,"['Drank coffee', 'Drank tea', 'Worked out']"
+641,2017-05-01,2017/5/1 22:00,2017/5/2 6:17,0.74,8:16:00,,Drank coffee:Drank tea:Worked out,,11475,496,"['Drank coffee', 'Drank tea', 'Worked out']"
+642,2017-05-02,2017/5/2 21:47,2017/5/3 6:04,0.77,8:16:00,,Drank coffee:Drank tea:Worked out,,4810,496,"['Drank coffee', 'Drank tea', 'Worked out']"
+643,2017-05-03,2017/5/3 22:59,2017/5/4 6:20,0.59,7:21:00,,Drank coffee:Drank tea:Worked out,,6932,441,"['Drank coffee', 'Drank tea', 'Worked out']"
+644,2017-05-04,2017/5/4 22:37,2017/5/5 6:10,0.73,7:32:00,,Drank coffee:Drank tea:Worked out,,5954,452,"['Drank coffee', 'Drank tea', 'Worked out']"
+645,2017-05-06,2017/5/6 0:25,2017/5/6 7:45,0.83,7:20:00,,Drank coffee:Drank tea:Worked out,,11070,440,"['Drank coffee', 'Drank tea', 'Worked out']"
+646,2017-05-07,2017/5/7 21:51,2017/5/8 6:10,0.81,8:18:00,,Drank coffee,,4310,498,['Drank coffee']
+647,2017-05-08,2017/5/8 22:28,2017/5/9 6:11,0.66,7:43:00,,Drank coffee:Drank tea:Worked out,,8598,463,"['Drank coffee', 'Drank tea', 'Worked out']"
+648,2017-05-09,2017/5/9 23:33,2017/5/10 6:03,0.64,6:29:00,,Drank coffee:Drank tea:Worked out,,6073,389,"['Drank coffee', 'Drank tea', 'Worked out']"
+649,2017-05-10,2017/5/10 6:04,2017/5/10 7:45,0.18,1:40:00,,,,0,100,['nan']
+650,2017-05-10,2017/5/10 22:43,2017/5/11 6:16,0.82,7:32:00,,Drank coffee:Drank tea,,2854,452,"['Drank coffee', 'Drank tea']"
+651,2017-05-11,2017/5/11 21:52,2017/5/12 6:40,0.95,8:47:00,,Drank coffee:Drank tea:Worked out,,4280,527,"['Drank coffee', 'Drank tea', 'Worked out']"
+652,2017-05-13,2017/5/13 0:42,2017/5/13 7:41,0.73,6:59:00,,Drank coffee:Drank tea:Worked out,,4068,419,"['Drank coffee', 'Drank tea', 'Worked out']"
+653,2017-05-14,2017/5/14 0:04,2017/5/14 8:11,0.73,8:06:00,,Drank tea,,3298,486,['Drank tea']
+654,2017-05-14,2017/5/14 21:57,2017/5/15 6:20,0.77,8:22:00,,Drank coffee:Drank tea,,3958,502,"['Drank coffee', 'Drank tea']"
+655,2017-05-15,2017/5/15 22:55,2017/5/16 6:30,0.75,7:34:00,,Drank coffee:Drank tea:Worked out,,7661,454,"['Drank coffee', 'Drank tea', 'Worked out']"
+656,2017-05-16,2017/5/16 22:41,2017/5/17 6:17,0.73,7:36:00,,Drank tea,,1865,456,['Drank tea']
+657,2017-05-17,2017/5/17 22:44,2017/5/18 6:40,0.9,7:56:00,,Drank coffee:Drank tea:Worked out,,6764,476,"['Drank coffee', 'Drank tea', 'Worked out']"
+658,2017-05-18,2017/5/18 23:17,2017/5/19 6:27,0.88,7:10:00,,Drank coffee:Drank tea:Stressful day:Worked out,,82,430,"['Drank coffee', 'Drank tea', 'Stressful day', 'Worked out']"
+659,2017-05-20,2017/5/20 1:04,2017/5/20 8:56,0.73,7:52:00,,Drank coffee:Drank tea:Worked out,,5606,472,"['Drank coffee', 'Drank tea', 'Worked out']"
+660,2017-05-22,2017/5/22 22:29,2017/5/23 7:35,0.9,9:06:00,,Drank tea:Worked out,,8858,546,"['Drank tea', 'Worked out']"
+661,2017-05-24,2017/5/24 0:14,2017/5/24 7:46,0.7,7:32:00,,Drank coffee:Worked out,,14276,452,"['Drank coffee', 'Worked out']"
+662,2017-05-24,2017/5/24 22:09,2017/5/25 6:37,0.82,8:28:00,,Drank tea:Worked out,,3884,508,"['Drank tea', 'Worked out']"
+663,2017-05-25,2017/5/25 22:19,2017/5/26 6:24,0.73,8:04:00,,Drank tea:Worked out,,4565,484,"['Drank tea', 'Worked out']"
+664,2017-05-28,2017/5/28 0:18,2017/5/28 8:01,0.81,7:43:00,,Drank coffee:Worked out,,3770,463,"['Drank coffee', 'Worked out']"
+665,2017-05-28,2017/5/28 22:37,2017/5/29 6:18,0.75,7:41:00,,Drank coffee,,1450,461,['Drank coffee']
+666,2017-05-29,2017/5/29 22:28,2017/5/30 6:11,0.88,7:42:00,,Drank coffee:Stressful day:Worked out,,7711,462,"['Drank coffee', 'Stressful day', 'Worked out']"
+667,2017-05-30,2017/5/30 21:59,2017/5/31 6:20,0.75,8:21:00,,Ate late:Drank coffee:Worked out,,6430,501,"['Ate late', 'Drank coffee', 'Worked out']"
+668,2017-05-31,2017/5/31 22:26,2017/6/1 5:45,0.86,7:19:00,,Drank coffee:Drank tea:Worked out,,6964,439,"['Drank coffee', 'Drank tea', 'Worked out']"
+669,2017-06-01,2017/6/1 22:59,2017/6/2 6:40,0.8,7:41:00,,Drank coffee:Drank tea:Worked out,,4562,461,"['Drank coffee', 'Drank tea', 'Worked out']"
+670,2017-06-02,2017/6/2 22:05,2017/6/3 6:11,0.69,8:05:00,,Drank coffee:Drank tea,,1867,485,"['Drank coffee', 'Drank tea']"
+671,2017-06-03,2017/6/3 21:56,2017/6/4 7:13,0.72,9:16:00,,Drank coffee:Worked out,,8205,556,"['Drank coffee', 'Worked out']"
+672,2017-06-04,2017/6/4 23:14,2017/6/5 6:21,0.67,7:06:00,,Drank coffee,,6705,426,['Drank coffee']
+673,2017-06-05,2017/6/5 22:30,2017/6/6 6:17,0.74,7:47:00,,Drank coffee:Worked out,,7820,467,"['Drank coffee', 'Worked out']"
+674,2017-06-06,2017/6/6 21:38,2017/6/7 5:53,0.76,8:14:00,,Drank coffee:Drank tea:Stressful day:Worked out,,5391,494,"['Drank coffee', 'Drank tea', 'Stressful day', 'Worked out']"
+675,2017-06-07,2017/6/7 22:54,2017/6/8 6:34,0.41,7:40:00,,Drank coffee:Drank tea:Worked out,,10542,460,"['Drank coffee', 'Drank tea', 'Worked out']"
+676,2017-06-08,2017/6/8 21:47,2017/6/9 6:17,0.7,8:30:00,,Drank tea,,255,510,['Drank tea']
+677,2017-06-10,2017/6/10 0:07,2017/6/10 7:55,0.67,7:47:00,,,,10427,467,['nan']
+678,2017-06-11,2017/6/11 22:18,2017/6/12 6:10,0.78,7:52:00,,,,6507,472,['nan']
+679,2017-06-12,2017/6/12 21:44,2017/6/13 6:17,0.93,8:32:00,,,,10373,512,['nan']
+680,2017-06-13,2017/6/13 22:18,2017/6/14 6:12,0.74,7:54:00,,,,9204,474,['nan']
+681,2017-06-14,2017/6/14 22:34,2017/6/15 6:13,0.68,7:38:00,,,,5027,458,['nan']
+682,2017-06-15,2017/6/15 22:19,2017/6/16 6:07,0.76,7:48:00,,,,7106,468,['nan']
+683,2017-06-18,2017/6/18 5:01,2017/6/18 7:34,0.31,2:33:00,,,,12153,153,['nan']
+685,2017-06-18,2017/6/18 22:22,2017/6/19 6:02,0.66,7:39:00,,,,5251,459,['nan']
+686,2017-06-19,2017/6/19 22:57,2017/6/20 6:24,0.7,7:26:00,,,,6672,446,['nan']
+687,2017-06-20,2017/6/20 22:31,2017/6/21 6:15,0.77,7:43:00,,,,7007,463,['nan']
+689,2017-06-21,2017/6/21 22:32,2017/6/22 6:10,0.72,7:37:00,,,,4898,457,['nan']
+690,2017-06-22,2017/6/22 23:37,2017/6/23 6:38,0.59,7:00:00,,,,7064,420,['nan']
+691,2017-06-23,2017/6/23 23:26,2017/6/24 7:11,0.74,7:44:00,,,,114,464,['nan']
+692,2017-06-25,2017/6/25 22:08,2017/6/26 6:18,0.83,8:10:00,,,,3403,490,['nan']
+693,2017-06-26,2017/6/26 21:24,2017/6/27 6:15,0.9,8:51:00,,,,6043,531,['nan']
+694,2017-06-27,2017/6/27 21:52,2017/6/28 6:33,0.86,8:41:00,,,,8946,521,['nan']
+695,2017-06-28,2017/6/28 21:53,2017/6/29 6:21,0.69,8:28:00,,,,7778,508,['nan']
+696,2017-06-29,2017/6/29 22:32,2017/6/30 6:33,0.77,8:00:00,,,,5510,480,['nan']
+697,2017-07-03,2017/7/3 0:31,2017/7/3 7:44,0.81,7:12:00,,,,17770,432,['nan']
+698,2017-07-03,2017/7/3 22:37,2017/7/4 6:18,0.73,7:41:00,,,,10604,461,['nan']
+699,2017-07-04,2017/7/4 22:07,2017/7/5 5:55,0.74,7:48:00,,,,7474,468,['nan']
+700,2017-07-05,2017/7/5 21:48,2017/7/6 5:43,0.66,7:55:00,,,,6430,475,['nan']
+701,2017-07-06,2017/7/6 22:33,2017/7/7 6:31,0.73,7:57:00,,,,11076,477,['nan']
+702,2017-07-09,2017/7/9 22:36,2017/7/10 5:59,0.7,7:22:00,,,,12647,442,['nan']
+703,2017-07-10,2017/7/10 22:25,2017/7/11 6:01,0.74,7:35:00,,,,4260,455,['nan']
+704,2017-07-11,2017/7/11 21:39,2017/7/12 6:06,0.65,8:26:00,,,,5504,506,['nan']
+705,2017-07-12,2017/7/12 23:12,2017/7/13 6:25,0.67,7:13:00,,,,6915,433,['nan']
+706,2017-07-13,2017/7/13 22:30,2017/7/14 6:45,0.81,8:14:00,,,,3919,494,['nan']
+707,2017-07-15,2017/7/15 1:10,2017/7/15 7:54,0.78,6:43:00,,,,5342,403,['nan']
+708,2017-07-16,2017/7/16 2:12,2017/7/16 7:53,0.69,5:40:00,,,,3739,340,['nan']
+709,2017-07-16,2017/7/16 22:08,2017/7/17 6:25,0.7,8:17:00,,,,5925,497,['nan']
+710,2017-07-17,2017/7/17 22:51,2017/7/18 6:17,0.71,7:26:00,,,,4840,446,['nan']
+711,2017-07-18,2017/7/18 22:00,2017/7/19 6:39,0.84,8:39:00,,,,5157,519,['nan']
+712,2017-07-19,2017/7/19 21:45,2017/7/20 5:55,0.87,8:09:00,,,,4336,489,['nan']
+713,2017-07-22,2017/7/22 1:06,2017/7/22 7:54,0.68,6:48:00,,,,135,408,['nan']
+714,2017-07-22,2017/7/22 23:13,2017/7/23 7:10,0.78,7:57:00,,,,5579,477,['nan']
+715,2017-07-23,2017/7/23 21:57,2017/7/24 5:49,0.84,7:51:00,,,,3901,471,['nan']
+717,2017-07-25,2017/7/25 22:04,2017/7/26 5:48,0.87,7:43:00,,,,5451,463,['nan']
+718,2017-07-26,2017/7/26 22:29,2017/7/27 6:05,0.74,7:35:00,,,,2899,455,['nan']
+719,2017-07-27,2017/7/27 21:53,2017/7/28 5:50,0.51,7:57:00,,,,1552,477,['nan']
+720,2017-07-28,2017/7/28 23:29,2017/7/29 6:22,0.38,6:53:00,,,,5221,413,['nan']
+721,2017-07-29,2017/7/29 22:00,2017/7/30 6:50,0.72,8:49:00,,,,3834,529,['nan']
+722,2017-07-30,2017/7/30 23:20,2017/7/31 6:33,0.89,7:12:00,,,,1018,432,['nan']
+723,2017-07-31,2017/7/31 22:39,2017/8/1 6:19,0.82,7:39:00,,,,1837,459,['nan']
+724,2017-08-01,2017/8/1 23:15,2017/8/2 6:10,0.77,6:54:00,,,,893,414,['nan']
+725,2017-08-02,2017/8/2 22:32,2017/8/3 6:06,0.81,7:33:00,,,,5280,453,['nan']
+726,2017-08-03,2017/8/3 23:14,2017/8/4 6:32,0.8,7:18:00,,,,3584,438,['nan']
+727,2017-08-04,2017/8/4 22:59,2017/8/5 7:31,0.76,8:31:00,,,,1114,511,['nan']
+728,2017-08-05,2017/8/5 23:37,2017/8/6 7:38,0.81,8:00:00,,,,5152,480,['nan']
+729,2017-08-06,2017/8/6 23:03,2017/8/7 8:12,0.99,9:08:00,,,,3045,548,['nan']
+730,2017-08-07,2017/8/7 23:14,2017/8/8 7:41,0.73,8:26:00,,,,2429,506,['nan']
+731,2017-08-08,2017/8/8 22:34,2017/8/9 6:05,0.81,7:31:00,,,,7187,451,['nan']
+732,2017-08-09,2017/8/9 23:22,2017/8/10 5:53,0.59,6:30:00,,,,4488,390,['nan']
+733,2017-08-12,2017/8/12 22:58,2017/8/13 6:40,0.79,7:42:00,,,,5541,462,['nan']
+734,2017-08-13,2017/8/13 22:46,2017/8/14 5:51,0.58,7:04:00,,,,6246,424,['nan']
+735,2017-08-14,2017/8/14 22:32,2017/8/15 5:51,0.67,7:18:00,,,,7940,438,['nan']
+736,2017-08-15,2017/8/15 21:56,2017/8/16 6:30,0.83,8:34:00,,,,5029,514,['nan']
+737,2017-08-16,2017/8/16 22:01,2017/8/17 5:29,0.81,7:27:00,,,,9185,447,['nan']
+738,2017-08-17,2017/8/17 20:36,2017/8/18 4:53,0.35,8:16:00,,,,7581,496,['nan']
+739,2017-08-25,2017/8/25 23:37,2017/8/26 6:38,0.3,7:00:00,,,,10605,420,['nan']
+740,2017-08-27,2017/8/27 22:15,2017/8/28 7:00,0.94,8:44:00,,,,13476,524,['nan']
+741,2017-08-28,2017/8/28 22:03,2017/8/29 7:20,0.82,9:17:00,,,,3921,557,['nan']
+742,2017-08-30,2017/8/30 23:01,2017/8/31 6:38,0.74,7:37:00,,,,3332,457,['nan']
+743,2017-08-31,2017/8/31 23:01,2017/9/1 7:16,0.81,8:15:00,,,,3001,495,['nan']
+744,2017-09-01,2017/9/1 22:33,2017/9/2 7:38,0.89,9:04:00,,,,7268,544,['nan']
+745,2017-09-03,2017/9/3 0:46,2017/9/3 8:08,0.81,7:21:00,,,,4835,441,['nan']
+746,2017-09-03,2017/9/3 23:07,2017/9/4 7:22,0.84,8:14:00,,,,3230,494,['nan']
+747,2017-09-04,2017/9/4 22:49,2017/9/5 6:07,0.59,7:17:00,,,,1333,437,['nan']
+748,2017-09-05,2017/9/5 22:38,2017/9/6 6:08,0.81,7:30:00,,,,8922,450,['nan']
+749,2017-09-06,2017/9/6 22:02,2017/9/7 6:02,0.79,7:59:00,,,,5095,479,['nan']
+750,2017-09-07,2017/9/7 22:26,2017/9/8 6:05,0.77,7:39:00,,,,5470,459,['nan']
+751,2017-09-09,2017/9/9 21:24,2017/9/10 6:13,0.74,8:48:00,,,,2257,528,['nan']
+752,2017-09-11,2017/9/11 22:39,2017/9/12 6:06,0.56,7:27:00,,,,12094,447,['nan']
+753,2017-09-12,2017/9/12 22:03,2017/9/13 6:08,0.86,8:04:00,,,,6059,484,['nan']
+754,2017-09-13,2017/9/13 23:43,2017/9/14 6:32,0.55,6:48:00,,,,6075,408,['nan']
+755,2017-09-14,2017/9/14 22:06,2017/9/15 6:05,0.79,7:59:00,,,,4400,479,['nan']
+756,2017-09-16,2017/9/16 0:18,2017/9/16 8:51,0.91,8:33:00,,,,4880,513,['nan']
+757,2017-09-17,2017/9/17 22:50,2017/9/18 6:32,0.71,7:41:00,,,,7213,461,['nan']
+758,2017-09-18,2017/9/18 22:19,2017/9/19 6:04,0.69,7:44:00,,,,3640,464,['nan']
+759,2017-09-19,2017/9/19 22:16,2017/9/20 6:04,0.76,7:47:00,,,,5184,467,['nan']
+760,2017-09-20,2017/9/20 22:04,2017/9/21 6:06,0.65,8:02:00,,,,4443,482,['nan']
+761,2017-09-21,2017/9/21 22:23,2017/9/22 6:07,0.72,7:44:00,,,,5242,464,['nan']
+762,2017-09-24,2017/9/24 21:44,2017/9/25 5:57,0.8,8:13:00,,,,5142,493,['nan']
+763,2017-09-25,2017/9/25 22:17,2017/9/26 6:19,0.73,8:01:00,,,,5050,481,['nan']
+764,2017-09-26,2017/9/26 23:01,2017/9/27 5:49,0.66,6:47:00,,,,1706,407,['nan']
+765,2017-09-27,2017/9/27 22:06,2017/9/28 6:08,0.83,8:02:00,,,,10076,482,['nan']
+766,2017-09-28,2017/9/28 23:36,2017/9/29 6:41,0.75,7:04:00,,,,5320,424,['nan']
+767,2017-09-29,2017/9/29 23:14,2017/9/30 8:00,0.8,8:46:00,,,,2809,526,['nan']
+768,2017-10-01,2017/10/1 0:03,2017/10/1 7:36,0.79,7:33:00,,,,6235,453,['nan']
+769,2017-10-01,2017/10/1 21:44,2017/10/2 6:05,0.69,8:21:00,,,,2757,501,['nan']
+770,2017-10-02,2017/10/2 22:55,2017/10/3 6:00,0.76,7:05:00,,,,5551,425,['nan']
+771,2017-10-03,2017/10/3 21:41,2017/10/4 6:25,0.96,8:44:00,,,,3729,524,['nan']
+772,2017-10-04,2017/10/4 22:44,2017/10/5 6:05,0.75,7:20:00,,,,7101,440,['nan']
+773,2017-10-05,2017/10/5 21:24,2017/10/6 4:37,0.76,7:13:00,,,,4906,433,['nan']
+774,2017-10-06,2017/10/6 22:56,2017/10/7 7:44,0.55,8:47:00,,,,4507,527,['nan']
+775,2017-10-07,2017/10/7 21:57,2017/10/8 8:05,0.71,10:07:00,,,,1588,607,['nan']
+776,2017-10-09,2017/10/9 22:27,2017/10/10 6:10,0.79,7:42:00,,,,3951,462,['nan']
+777,2017-10-10,2017/10/10 22:23,2017/10/11 6:00,0.8,7:36:00,,,,5912,456,['nan']
+778,2017-10-11,2017/10/11 22:32,2017/10/12 6:10,0.71,7:38:00,,,,5314,458,['nan']
+779,2017-10-12,2017/10/12 22:22,2017/10/13 6:37,0.79,8:14:00,,,,3240,494,['nan']
+780,2017-10-13,2017/10/13 23:03,2017/10/14 8:15,0.88,9:11:00,,,,356,551,['nan']
+781,2017-10-14,2017/10/14 22:58,2017/10/15 7:24,0.8,8:25:00,,,,388,505,['nan']
+782,2017-10-15,2017/10/15 22:47,2017/10/16 5:56,0.69,7:09:00,,,,4287,429,['nan']
+783,2017-10-16,2017/10/16 21:51,2017/10/17 6:01,0.74,8:09:00,,,,7129,489,['nan']
+784,2017-10-17,2017/10/17 21:41,2017/10/18 6:02,0.78,8:21:00,,,,3342,501,['nan']
+785,2017-10-19,2017/10/19 0:01,2017/10/19 6:02,0.6,6:00:00,,,,4074,360,['nan']
+786,2017-10-19,2017/10/19 21:13,2017/10/20 6:14,1,9:00:00,,,,907,540,['nan']
+787,2017-10-21,2017/10/21 0:05,2017/10/21 7:57,0.89,7:51:00,,,,5899,471,['nan']
+788,2017-10-22,2017/10/22 0:25,2017/10/22 7:45,0.79,7:20:00,,,,71,440,['nan']
+789,2017-10-22,2017/10/22 21:50,2017/10/23 6:00,0.82,8:10:00,,,,5210,490,['nan']
+790,2017-10-23,2017/10/23 22:18,2017/10/24 6:01,0.65,7:42:00,,,,6636,462,['nan']
+791,2017-10-24,2017/10/24 22:15,2017/10/25 6:06,0.83,7:51:00,,,,5355,471,['nan']
+792,2017-10-25,2017/10/25 21:55,2017/10/26 6:00,0.65,8:05:00,,,,4119,485,['nan']
+793,2017-10-27,2017/10/27 1:50,2017/10/27 6:51,0.59,5:01:00,,,,5364,301,['nan']
+794,2017-10-28,2017/10/28 22:51,2017/10/29 7:51,0.91,9:00:00,,,,1097,540,['nan']
+795,2017-10-29,2017/10/29 22:26,2017/10/30 6:00,0.78,7:34:00,,,,1430,454,['nan']
+796,2017-10-30,2017/10/30 22:52,2017/10/31 5:43,0.62,6:51:00,,,,7603,411,['nan']
+797,2017-10-31,2017/10/31 23:29,2017/11/1 5:02,0.49,5:33:00,,,,9304,333,['nan']
+798,2017-11-02,2017/11/2 21:25,2017/11/3 6:21,0.74,8:56:00,,,,5051,536,['nan']
+799,2017-11-03,2017/11/3 23:23,2017/11/4 7:26,0.89,8:02:00,,,,787,482,['nan']
+800,2017-11-05,2017/11/5 22:30,2017/11/6 6:05,0.7,7:35:00,,,,5504,455,['nan']
+801,2017-11-06,2017/11/6 22:08,2017/11/7 5:58,0.75,7:49:00,,,,3709,469,['nan']
+802,2017-11-07,2017/11/7 21:01,2017/11/8 5:45,0.9,8:43:00,,,,144,523,['nan']
+803,2017-11-08,2017/11/8 23:11,2017/11/9 6:30,0.76,7:18:00,,,,6094,438,['nan']
+804,2017-11-09,2017/11/9 22:04,2017/11/10 7:15,0.96,9:11:00,,,,847,551,['nan']
+805,2017-11-10,2017/11/10 23:29,2017/11/11 7:21,0.83,7:51:00,,,,5919,471,['nan']
+806,2017-11-11,2017/11/11 23:06,2017/11/12 7:18,0.84,8:11:00,,,,1751,491,['nan']
+807,2017-11-12,2017/11/12 23:39,2017/11/13 8:30,0.79,8:50:00,,,,3789,530,['nan']
+808,2017-11-14,2017/11/14 21:16,2017/11/15 6:50,0.93,9:34:00,,,,52,574,['nan']
+809,2017-11-15,2017/11/15 21:23,2017/11/16 6:51,0.85,9:27:00,,,,27,567,['nan']
+810,2017-11-16,2017/11/16 22:33,2017/11/17 6:07,0.8,7:34:00,,,,430,454,['nan']
+811,2017-11-17,2017/11/17 23:08,2017/11/18 7:20,0.91,8:11:00,,,,3281,491,['nan']
+812,2017-11-19,2017/11/19 21:58,2017/11/20 6:02,0.82,8:04:00,,,,4153,484,['nan']
+813,2017-11-20,2017/11/20 22:26,2017/11/21 6:00,0.86,7:33:00,,,,6494,453,['nan']
+814,2017-11-21,2017/11/21 22:26,2017/11/22 5:57,0.68,7:31:00,,,,9426,451,['nan']
+815,2017-11-22,2017/11/22 22:34,2017/11/23 6:01,0.8,7:26:00,,,,7565,446,['nan']
+816,2017-11-23,2017/11/23 22:56,2017/11/24 6:30,0.8,7:33:00,,,,5735,453,['nan']
+817,2017-11-25,2017/11/25 23:14,2017/11/26 8:19,1,9:05:00,,,,5116,545,['nan']
+818,2017-11-26,2017/11/26 22:10,2017/11/27 6:05,0.63,7:55:00,,,,27,475,['nan']
+819,2017-11-27,2017/11/27 22:36,2017/11/28 5:58,0.73,7:22:00,,,,0,442,['nan']
+820,2017-11-28,2017/11/28 22:54,2017/11/29 6:09,0.8,7:14:00,,,,6417,434,['nan']
+821,2017-11-29,2017/11/29 22:33,2017/11/30 6:26,0.83,7:52:00,,,,0,472,['nan']
+822,2017-11-30,2017/11/30 20:54,2017/12/1 5:55,0.77,9:01:00,,,,0,541,['nan']
+823,2017-12-03,2017/12/3 23:10,2017/12/4 6:15,0.63,7:05:00,,,,3400,425,['nan']
+824,2017-12-04,2017/12/4 21:20,2017/12/5 5:50,0.7,8:29:00,,,,6015,509,['nan']
+825,2017-12-05,2017/12/5 22:56,2017/12/6 6:15,0.68,7:19:00,,,,3179,439,['nan']
+826,2017-12-06,2017/12/6 21:56,2017/12/7 5:50,0.63,7:53:00,,,,6346,473,['nan']
+827,2017-12-07,2017/12/7 22:04,2017/12/8 6:31,0.82,8:27:00,,,,218,507,['nan']
+828,2017-12-09,2017/12/9 23:39,2017/12/10 8:15,0.95,8:35:00,,,,0,515,['nan']
+829,2017-12-10,2017/12/10 22:16,2017/12/11 6:06,0.7,7:49:00,,,,96,469,['nan']
+830,2017-12-11,2017/12/11 21:47,2017/12/12 5:57,0.68,8:09:00,,,,7339,489,['nan']
+831,2017-12-12,2017/12/12 22:09,2017/12/13 5:55,0.72,7:45:00,,,,6970,465,['nan']
+832,2017-12-14,2017/12/14 22:47,2017/12/15 5:51,0.6,7:04:00,,,,1566,424,['nan']
+833,2017-12-17,2017/12/17 21:35,2017/12/18 6:08,0.8,8:33:00,,,,5184,513,['nan']
+834,2017-12-18,2017/12/18 21:39,2017/12/19 6:05,0.79,8:26:00,,,,75,506,['nan']
+835,2017-12-19,2017/12/19 22:05,2017/12/20 6:25,0.79,8:20:00,,,,3088,500,['nan']
+836,2017-12-20,2017/12/20 21:30,2017/12/21 5:52,0.59,8:22:00,,,,4553,502,['nan']
+837,2017-12-21,2017/12/21 22:10,2017/12/22 6:55,0.75,8:44:00,,,,1306,524,['nan']
+838,2017-12-26,2017/12/26 21:19,2017/12/27 7:55,0.97,10:35:00,,,,373,635,['nan']
+839,2017-12-29,2017/12/29 0:06,2017/12/29 7:57,0.75,7:50:00,,,,5168,470,['nan']
+840,2017-12-29,2017/12/29 22:00,2017/12/30 8:08,0.75,10:08:00,,,,61,608,['nan']
+841,2018-01-01,2018/1/1 21:30,2018/1/2 5:56,0.81,8:25:00,,,,2544,505,['nan']
+842,2018-01-02,2018/1/2 22:31,2018/1/3 5:48,0.76,7:17:00,,,,475,437,['nan']
+844,2018-01-04,2018/1/4 22:19,2018/1/5 7:25,0.91,9:05:00,,,,5064,545,['nan']
+845,2018-01-06,2018/1/6 23:13,2018/1/7 8:00,0.86,8:46:00,,,,2101,526,['nan']
+846,2018-01-07,2018/1/7 22:09,2018/1/8 6:10,0.83,8:01:00,,,,1334,481,['nan']
+847,2018-01-08,2018/1/8 22:53,2018/1/9 5:45,0.77,6:51:00,,,,2262,411,['nan']
+848,2018-01-09,2018/1/9 22:22,2018/1/10 6:23,0.9,8:01:00,,,,4529,481,['nan']
+849,2018-01-10,2018/1/10 21:31,2018/1/11 5:10,0.71,7:38:00,,,,6224,458,['nan']
+850,2018-01-11,2018/1/11 21:54,2018/1/12 5:01,0.7,7:06:00,,,,47,426,['nan']
+851,2018-01-12,2018/1/12 21:50,2018/1/13 7:38,0.7,9:48:00,,,,6296,588,['nan']
+852,2018-01-13,2018/1/13 22:07,2018/1/14 7:09,0.64,9:02:00,,,,2405,542,['nan']
+853,2018-01-14,2018/1/14 22:02,2018/1/15 5:50,0.73,7:48:00,,,,9237,468,['nan']
+854,2018-01-15,2018/1/15 22:45,2018/1/16 6:00,0.79,7:15:00,,,,2818,435,['nan']
+855,2018-01-16,2018/1/16 22:09,2018/1/17 6:01,0.71,7:51:00,,,,5752,471,['nan']
+856,2018-01-17,2018/1/17 22:45,2018/1/18 6:12,0.84,7:27:00,,,,6631,447,['nan']
+857,2018-01-18,2018/1/18 22:46,2018/1/19 6:48,0.59,8:02:00,,,,9516,482,['nan']
+858,2018-01-19,2018/1/19 22:21,2018/1/20 8:22,0.71,10:01:00,,,,4454,601,['nan']
+859,2018-01-20,2018/1/20 23:44,2018/1/21 7:01,0.67,7:17:00,,,,7253,437,['nan']
+860,2018-01-21,2018/1/21 22:04,2018/1/22 6:01,0.84,7:56:00,,,,22,476,['nan']
+861,2018-01-22,2018/1/22 23:15,2018/1/23 6:00,0.66,6:44:00,,,,2334,404,['nan']
+862,2018-01-23,2018/1/23 21:41,2018/1/24 6:00,0.73,8:18:00,,,,2867,498,['nan']
+863,2018-01-24,2018/1/24 20:58,2018/1/25 6:02,0.84,9:03:00,,,,4881,543,['nan']
+864,2018-01-25,2018/1/25 23:17,2018/1/26 6:00,0.72,6:43:00,,,,2149,403,['nan']
+865,2018-01-26,2018/1/26 22:13,2018/1/27 7:20,0.92,9:07:00,,,,1720,547,['nan']
+866,2018-01-28,2018/1/28 1:21,2018/1/28 8:49,0.81,7:27:00,,,,6518,447,['nan']
+867,2018-01-28,2018/1/28 21:30,2018/1/29 5:00,0.69,7:29:00,,,,29,449,['nan']
+868,2018-01-29,2018/1/29 21:37,2018/1/30 6:01,0.79,8:23:00,,,,107,503,['nan']
+869,2018-01-30,2018/1/30 22:18,2018/1/31 6:03,0.77,7:44:00,,,,5277,464,['nan']
+870,2018-01-31,2018/1/31 22:29,2018/2/1 6:02,0.72,7:32:00,,,,1325,452,['nan']
+871,2018-02-01,2018/2/1 21:25,2018/2/2 6:45,0.8,9:20:00,,,,3319,560,['nan']
+872,2018-02-03,2018/2/3 2:20,2018/2/3 7:44,0.65,5:23:00,,,,4810,323,['nan']
+874,2018-02-03,2018/2/3 22:29,2018/2/4 7:37,0.96,9:08:00,,,,362,548,['nan']
+875,2018-02-04,2018/2/4 23:09,2018/2/5 6:01,0.72,6:52:00,,,,2528,412,['nan']
+876,2018-02-05,2018/2/5 22:02,2018/2/6 6:00,0.78,7:58:00,,,,7982,478,['nan']
+877,2018-02-06,2018/2/6 21:44,2018/2/7 6:12,0.82,8:28:00,,,,5039,508,['nan']
+878,2018-02-07,2018/2/7 23:18,2018/2/8 6:48,0.73,7:29:00,,,,2435,449,['nan']
+879,2018-02-08,2018/2/8 22:41,2018/2/9 6:00,0.93,7:18:00,,,,68,438,['nan']
+880,2018-02-09,2018/2/9 23:07,2018/2/10 7:26,0.76,8:18:00,,,,5598,498,['nan']
+881,2018-02-11,2018/2/11 22:44,2018/2/12 7:08,0.91,8:24:00,,,,1901,504,['nan']
+882,2018-02-12,2018/2/12 21:54,2018/2/13 7:02,0.91,9:08:00,,,,56,548,['nan']
+883,2018-02-13,2018/2/13 23:49,2018/2/14 7:00,0.81,7:11:00,,,,64,431,['nan']
+884,2018-02-14,2018/2/14 21:24,2018/2/15 6:20,0.71,8:56:00,,,,3316,536,['nan']
+885,2018-02-15,2018/2/15 21:36,2018/2/16 6:50,0.8,9:13:00,,,,6555,553,['nan']
+886,2018-02-16,2018/2/16 22:52,2018/2/17 7:48,0.91,8:55:00,,,,2291,535,['nan']
