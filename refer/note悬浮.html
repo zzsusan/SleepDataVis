@@ -1,0 +1,81 @@
+
+<!doctype html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>TEST</title>
+</head>
+<style type="text/css">
+    body{
+        position: relative;
+    }
+    #inform{
+        position: absolute;
+        top: 20px;
+        width: 350px;
+        max-height: 250px;
+        z-index: 10;
+        background-color: #E0E5E5;
+        overflow: auto;
+        box-shadow:0px 0px 10px #000;
+        display: none;
+    }
+    #informTable{
+        table-layout:fixed;
+        width: 325px;
+    }
+
+    #informTable tr td{
+        width: 325px;
+        height:30px;
+        font-size: 16px;
+        font-family: Georgia;
+        color: #555555;
+        word-wrap:break-word;   /*自动换行*/
+        padding: 0 0 0 0;
+    }
+    #informTable tr td:hover{
+        background-color: #D9D9D9;
+    }
+    #inform hr{
+        border:1;
+        width: 325px;
+        margin-bottom: 0px;
+    }
+
+</style>
+<script type="text/javascript">
+    //显示悬浮层
+    function showInform(){
+        document.getElementById("inform").style.display='block';
+        // document.getElementById("inform").css("display","block");
+    }
+    //隐藏悬浮层
+    function hiddenInform(event){
+        var informDiv = document.getElementById('inform');
+        var x=event.clientX;
+        var y=event.clientY;
+        var divx1 = informDiv.offsetLeft;
+        var divy1 = informDiv.offsetTop;
+        var divx2 = informDiv.offsetLeft + informDiv.offsetWidth;
+        var divy2 = informDiv.offsetTop + informDiv.offsetHeight;
+        if( x < divx1 || x > divx2 || y < divy1 || y > divy2){
+            document.getElementById('inform').style.display='none';
+        }
+
+    }
+
+
+</script>
+<body>
+<!--
+这个a改成需要放上去悬浮的元素，id onMouseOver和onMouseOut属性不变
+-->
+<a id="btn" onMouseOver="javascript:showInform();"  onMouseOut="hiddenInform()">
+    警告消息
+</a>
+
+<div id="inform"  onMouseOver="javascript:showInform();"  onMouseOut="hiddenInform(event)">
+    这里放需要悬浮显示的数据
+</div>
+</body>
+</html>

@@ -72,19 +72,22 @@ This chart shows ... `
           .attr("dy", "0.31em")
           .text(formatDay);
 
-        // 代表日期的小方格标，x有问题
+        // 想显示Wake up ：）
         year.append("g")
           .selectAll("text")
           .data(d => d.values)
           .join("text")
           // .append("text") //<text dy="1em">文字文字文字</text>
-          .attr("text", ":)")
           .attr("x", d => timeWeek.count(d3.utcYear(d.date), d.date) * cellSize + 0.5)
           .attr("y", d => countDay(d.date) * cellSize + 0.5)
           .attr("dy", ".1em")
-          
-        const calendarRect = year.append("g")
-          .selectAll("rect")
+          .text(d => d['Wake up'])
+
+        // 小方格
+        const gRect = year.append("g");
+
+        // 带颜色格子
+        gRect.selectAll("rect")
           .data(d => d.values)
           .join("rect")
           .attr("width", cellSize - 1)
@@ -94,16 +97,21 @@ This chart shows ... `
           .attr("fill", d => color(d['Sleep quality']))
           .append("title")
           .text(d => `${formatDate(d.date)}: ${format(d['Sleep quality'])}`);
-        
-        
-          
 
+        // 笑脸
+        gRect.selectAll("text")
+          .data(d => d.values)
+          .join("text")
+          .attr("x", d => timeWeek.count(d3.utcYear(d.date), d.date) * cellSize + 3.5 )
+          .attr("y", d => countDay(d.date) * cellSize + 10.5)
+          // .attr("dy", ".1em")
+          .text(d => d['Wake up']);
 
         // calendar.selectAll("rect")
         //   .append("title")
         //   .text(d => `${formatDate(d.date)}: ${format(d['Sleep quality'])}`);
 
-        // 这个不见了（可能是因为上面的g有问题）
+
         const month = year.append("g")
           .selectAll("g")
           .data(d => d3.utcMonths(d3.utcMonth(d.values[0].date), d.values[d.values.length - 1].date))
@@ -239,15 +247,6 @@ This chart shows ... `
       value: (async function (d3) {
         // const data = await d3.csv("sleepdata.csv", d3.autoType);
         const data = await d3.csv("/resource/sleeptest.csv", d3.autoType);
-        /*原来是对data进行了数据处理，返回data.date和新生成的一列*/
-        // return d3.pairs(data, (
-        //   {date}, {['Sleep quality']}
-        // ) => {
-        //   return {
-        //     date: new Date(date),
-        //     value: SleepQuality
-        //   };
-        // });
         return data;
       })
     },
